@@ -1,21 +1,27 @@
 # ========================
 # Environment & Secrets
 # ========================
-
 .env
 *.env
+frontend/.env.local
 
 # ========================
 # Python / Backend
 # ========================
 backend/venv/
 venv/
-backend/novabite.db
-*.db
 
 __pycache__/
 *.pyc
 *.pyo
+
+# ========================
+# SQLite
+# ========================
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
 
 # ========================
 # Node / Frontend
@@ -34,10 +40,3 @@ frontend/.vite/
 # ========================
 .DS_Store
 Thumbs.db
-
-# ========================
-# SQLite Extra Files
-# ========================
-*.db-journal
-*.db-wal
-*.db-shm
