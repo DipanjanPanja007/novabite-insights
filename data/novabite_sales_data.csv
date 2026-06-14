@@ -1,0 +1,1001 @@
+transaction_id,date,month,quarter,sku,product_name,category,subcategory,region,channel,sales_rep,units_sold,unit_price_usd,gross_revenue_usd,discount_pct,net_revenue_usd,cogs_usd,gross_profit_usd
+TXN-00417,2024-01-02,2024-01,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Anita Desai,495,3.66,1811.7,5,1721.12,789.55,931.57
+TXN-00271,2024-01-04,2024-01,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Sneha Patel,391,9.2,3597.2,0,3597.2,1463.32,2133.88
+TXN-00428,2024-01-04,2024-01,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Modern Trade,Arjun Rao,228,4.4,1003.2,15,852.72,425.77,426.95
+TXN-00939,2024-01-05,2024-01,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Karan Malhotra,279,1.25,348.75,0,348.75,161.28,187.47
+TXN-00194,2024-01-06,2024-01,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Direct to Consumer,Karan Malhotra,473,9.41,4450.93,0,4450.93,1924.35,2526.58
+TXN-00262,2024-01-07,2024-01,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,E-Commerce,Vikram Nair,143,11.56,1653.08,5,1570.43,805.73,764.7
+TXN-00844,2024-01-07,2024-01,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Direct to Consumer,Rahul Mehta,219,4.98,1090.62,0,1090.62,504.06,586.56
+TXN-00569,2024-01-08,2024-01,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Divya Joshi,202,4.73,955.46,10,859.91,447.71,412.2
+TXN-00234,2024-01-09,2024-01,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,E-Commerce,Divya Joshi,443,2.16,956.88,0,956.88,509.41,447.47
+TXN-00743,2024-01-09,2024-01,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Karan Malhotra,323,4.43,1430.89,5,1359.35,716.58,642.77
+TXN-00296,2024-01-10,2024-01,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Anita Desai,121,6.89,833.69,0,833.69,341.04,492.65
+TXN-00420,2024-01-12,2024-01,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Rohan Gupta,145,10.41,1509.45,10,1358.51,557.22,801.29
+TXN-00535,2024-01-12,2024-01,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,E-Commerce,Arjun Rao,293,7.76,2273.68,0,2273.68,951.5,1322.18
+TXN-00481,2024-01-14,2024-01,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Priya Sharma,353,3.81,1344.93,0,1344.93,706.47,638.46
+TXN-00872,2024-01-14,2024-01,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,E-Commerce,Anita Desai,355,7.79,2765.45,0,2765.45,1270.6,1494.85
+TXN-00685,2024-01-16,2024-01,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Modern Trade,Meena Krishnan,483,10.14,4897.62,5,4652.74,2016.42,2636.32
+TXN-00297,2024-01-17,2024-01,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Direct to Consumer,Rohan Gupta,13,5.97,77.61,5,73.73,29.62,44.11
+TXN-00793,2024-01-17,2024-01,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Direct to Consumer,Anita Desai,460,5.95,2737.0,0,2737.0,1097.77,1639.23
+TXN-00954,2024-01-17,2024-01,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Divya Joshi,68,8.69,590.92,5,561.37,239.67,321.7
+TXN-00086,2024-01-18,2024-01,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Direct to Consumer,Rohan Gupta,57,11.72,668.04,5,634.64,319.71,314.93
+TXN-00957,2024-01-19,2024-01,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Divya Joshi,12,9.37,112.44,0,112.44,47.87,64.57
+TXN-00074,2024-01-20,2024-01,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Rohan Gupta,393,4.24,1666.32,0,1666.32,722.57,943.75
+TXN-00405,2024-01-20,2024-01,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Divya Joshi,205,7.91,1621.55,0,1621.55,765.29,856.26
+TXN-00889,2024-01-21,2024-01,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,E-Commerce,Anita Desai,285,11.08,3157.8,5,2999.91,1495.95,1503.96
+TXN-00890,2024-01-21,2024-01,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Sneha Patel,366,3.3,1207.8,0,1207.8,661.71,546.09
+TXN-00142,2024-01-22,2024-01,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Karan Malhotra,35,4.28,149.8,0,149.8,82.14,67.66
+TXN-00910,2024-01-22,2024-01,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,E-Commerce,Sneha Patel,340,2.83,962.2,5,914.09,370.41,543.68
+TXN-00128,2024-01-23,2024-01,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Sneha Patel,434,2.0,868.0,0,868.0,348.25,519.75
+TXN-00413,2024-01-23,2024-01,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,E-Commerce,Priya Sharma,85,4.55,386.75,0,386.75,199.62,187.13
+TXN-00474,2024-01-23,2024-01,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,General Trade,Vikram Nair,311,8.13,2528.43,0,2528.43,1150.41,1378.02
+TXN-00622,2024-01-23,2024-01,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,Modern Trade,Divya Joshi,105,5.15,540.75,0,540.75,238.14,302.61
+TXN-00987,2024-01-24,2024-01,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,E-Commerce,Anita Desai,24,9.59,230.16,5,218.65,106.89,111.76
+TXN-00429,2024-01-27,2024-01,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,General Trade,Rahul Mehta,115,1.57,180.55,0,180.55,98.68,81.87
+TXN-00801,2024-01-30,2024-01,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Anita Desai,258,5.16,1331.28,0,1331.28,711.25,620.03
+TXN-00002,2024-01-31,2024-01,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Priya Sharma,57,2.36,134.52,5,127.79,62.66,65.13
+TXN-00308,2024-01-31,2024-01,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Direct to Consumer,Arjun Rao,334,1.39,464.26,5,441.05,208.88,232.17
+TXN-00806,2024-02-02,2024-02,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,E-Commerce,Anita Desai,364,9.8,3567.2,0,3567.2,1499.92,2067.28
+TXN-00972,2024-02-02,2024-02,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,General Trade,Divya Joshi,423,1.47,621.81,5,590.72,246.39,344.33
+TXN-00098,2024-02-03,2024-02,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Direct to Consumer,Sneha Patel,128,3.51,449.28,0,449.28,227.09,222.19
+TXN-00816,2024-02-03,2024-02,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,E-Commerce,Divya Joshi,161,7.74,1246.14,0,1246.14,628.94,617.2
+TXN-00882,2024-02-03,2024-02,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Direct to Consumer,Priya Sharma,100,4.43,443.0,15,376.55,194.64,181.91
+TXN-00769,2024-02-04,2024-02,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,E-Commerce,Vikram Nair,22,12.62,277.64,0,277.64,150.14,127.5
+TXN-00137,2024-02-08,2024-02,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,General Trade,Priya Sharma,165,3.64,600.6,0,600.6,249.0,351.6
+TXN-00257,2024-02-08,2024-02,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,General Trade,Sneha Patel,14,3.7,51.8,5,49.21,20.48,28.73
+TXN-00576,2024-02-08,2024-02,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Karan Malhotra,380,11.34,4309.2,5,4093.74,2014.51,2079.23
+TXN-00652,2024-02-08,2024-02,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Rahul Mehta,245,3.54,867.3,0,867.3,381.39,485.91
+TXN-00777,2024-02-08,2024-02,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,General Trade,Priya Sharma,350,4.81,1683.5,0,1683.5,850.18,833.32
+TXN-00193,2024-02-09,2024-02,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,General Trade,Anita Desai,156,5.12,798.72,5,758.78,382.74,376.04
+TXN-00480,2024-02-10,2024-02,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,E-Commerce,Anita Desai,290,2.7,783.0,0,783.0,394.03,388.97
+TXN-00782,2024-02-10,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Divya Joshi,206,5.47,1126.82,0,1126.82,568.35,558.47
+TXN-00518,2024-02-11,2024-02,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Meena Krishnan,229,7.89,1806.81,0,1806.81,757.97,1048.84
+TXN-00550,2024-02-11,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Arjun Rao,122,6.45,786.9,0,786.9,322.18,464.72
+TXN-00836,2024-02-11,2024-02,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,Modern Trade,Rohan Gupta,81,5.16,417.96,0,417.96,186.5,231.46
+TXN-00079,2024-02-12,2024-02,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Karan Malhotra,187,8.51,1591.37,10,1432.23,652.5,779.73
+TXN-00225,2024-02-12,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,E-Commerce,Karan Malhotra,432,7.35,3175.2,0,3175.2,1291.73,1883.47
+TXN-00931,2024-02-12,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,General Trade,Divya Joshi,307,5.76,1768.32,0,1768.32,840.95,927.37
+TXN-00591,2024-02-13,2024-02,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,Modern Trade,Divya Joshi,444,4.34,1926.96,5,1830.61,818.85,1011.76
+TXN-00186,2024-02-14,2024-02,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Rohan Gupta,220,3.04,668.8,10,601.92,262.21,339.71
+TXN-00558,2024-02-14,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Vikram Nair,75,8.76,657.0,0,657.0,276.08,380.92
+TXN-00566,2024-02-14,2024-02,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Direct to Consumer,Arjun Rao,367,5.69,2088.23,0,2088.23,1129.24,958.99
+TXN-00091,2024-02-16,2024-02,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Sneha Patel,37,3.09,114.33,10,102.9,55.73,47.17
+TXN-00235,2024-02-16,2024-02,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Direct to Consumer,Arjun Rao,215,4.0,860.0,5,817.0,350.66,466.34
+TXN-00381,2024-02-17,2024-02,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Modern Trade,Vikram Nair,251,5.62,1410.62,0,1410.62,602.11,808.51
+TXN-00952,2024-02-18,2024-02,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,E-Commerce,Karan Malhotra,292,3.02,881.84,0,881.84,420.65,461.19
+TXN-00943,2024-02-19,2024-02,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Vikram Nair,420,4.03,1692.6,0,1692.6,879.68,812.92
+TXN-00451,2024-02-20,2024-02,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Modern Trade,Meena Krishnan,93,6.5,604.5,15,513.82,279.9,233.92
+TXN-00922,2024-02-20,2024-02,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,E-Commerce,Anita Desai,215,5.05,1085.75,5,1031.46,452.84,578.62
+TXN-00658,2024-02-21,2024-02,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,General Trade,Anita Desai,354,1.49,527.46,5,501.09,273.42,227.67
+TXN-00042,2024-02-22,2024-02,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Sneha Patel,57,7.85,447.45,15,380.33,167.92,212.41
+TXN-00189,2024-02-23,2024-02,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,General Trade,Sneha Patel,338,6.66,2251.08,0,2251.08,1087.68,1163.4
+TXN-00253,2024-02-23,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Vikram Nair,61,5.06,308.66,10,277.79,130.8,146.99
+TXN-00744,2024-02-24,2024-02,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,E-Commerce,Divya Joshi,10,11.5,115.0,15,97.75,53.45,44.3
+TXN-00754,2024-02-24,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Karan Malhotra,472,8.53,4026.16,15,3422.24,1374.43,2047.81
+TXN-00108,2024-02-25,2024-02,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Meena Krishnan,106,2.43,257.58,5,244.7,125.65,119.05
+TXN-00498,2024-02-25,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Arjun Rao,428,9.19,3933.32,5,3736.65,1680.73,2055.92
+TXN-00010,2024-02-27,2024-02,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Arjun Rao,127,5.27,669.29,15,568.9,254.48,314.42
+TXN-00123,2024-02-27,2024-02,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Arjun Rao,160,10.23,1636.8,5,1554.96,655.94,899.02
+TXN-00350,2024-03-01,2024-03,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,General Trade,Meena Krishnan,151,2.16,326.16,0,326.16,164.78,161.38
+TXN-00354,2024-03-05,2024-03,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Direct to Consumer,Arjun Rao,417,4.4,1834.8,0,1834.8,1000.37,834.43
+TXN-00638,2024-03-05,2024-03,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,General Trade,Arjun Rao,347,1.53,530.91,15,451.27,206.74,244.53
+TXN-00791,2024-03-05,2024-03,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,General Trade,Arjun Rao,71,9.19,652.49,15,554.62,256.39,298.23
+TXN-00826,2024-03-05,2024-03,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,E-Commerce,Vikram Nair,21,5.99,125.79,0,125.79,66.07,59.72
+TXN-00023,2024-03-06,2024-03,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Vikram Nair,183,3.96,724.68,5,688.45,299.14,389.31
+TXN-00900,2024-03-06,2024-03,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Arjun Rao,334,10.03,3350.02,5,3182.52,1400.44,1782.08
+TXN-00093,2024-03-07,2024-03,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Direct to Consumer,Rahul Mehta,215,4.96,1066.4,5,1013.08,500.88,512.2
+TXN-00400,2024-03-07,2024-03,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Priya Sharma,111,1.88,208.68,5,198.25,103.37,94.88
+TXN-00733,2024-03-07,2024-03,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Direct to Consumer,Priya Sharma,253,2.18,551.54,5,523.96,245.83,278.13
+TXN-00180,2024-03-08,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Modern Trade,Arjun Rao,178,6.26,1114.28,10,1002.85,459.29,543.56
+TXN-00211,2024-03-09,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Anita Desai,130,8.94,1162.2,0,1162.2,528.01,634.19
+TXN-00711,2024-03-10,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,E-Commerce,Sneha Patel,167,7.33,1224.11,5,1162.9,521.66,641.24
+TXN-00034,2024-03-11,2024-03,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Anita Desai,314,4.46,1400.44,15,1190.37,518.14,672.23
+TXN-00121,2024-03-11,2024-03,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Modern Trade,Karan Malhotra,130,2.52,327.6,0,327.6,180.05,147.55
+TXN-00054,2024-03-12,2024-03,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Meena Krishnan,495,2.53,1252.35,0,1252.35,618.0,634.35
+TXN-00739,2024-03-12,2024-03,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,E-Commerce,Meena Krishnan,316,4.79,1513.64,15,1286.59,629.74,656.85
+TXN-00625,2024-03-14,2024-03,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Meena Krishnan,288,10.69,3078.72,0,3078.72,1645.13,1433.59
+TXN-00662,2024-03-14,2024-03,Q1-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,General Trade,Vikram Nair,146,1.75,255.5,0,255.5,128.44,127.06
+TXN-00037,2024-03-15,2024-03,Q1-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Direct to Consumer,Arjun Rao,14,8.56,119.84,5,113.85,62.55,51.3
+TXN-00370,2024-03-15,2024-03,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,General Trade,Rohan Gupta,18,1.47,26.46,0,26.46,11.62,14.84
+TXN-00776,2024-03-15,2024-03,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Priya Sharma,46,4.62,212.52,0,212.52,109.78,102.74
+TXN-00149,2024-03-16,2024-03,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Direct to Consumer,Rohan Gupta,470,3.87,1818.9,5,1727.95,729.63,998.32
+TXN-00423,2024-03-16,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Rohan Gupta,419,5.57,2333.83,0,2333.83,940.56,1393.27
+TXN-00133,2024-03-18,2024-03,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Modern Trade,Rohan Gupta,82,10.15,832.3,0,832.3,440.3,392.0
+TXN-00305,2024-03-19,2024-03,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Meena Krishnan,163,7.44,1212.72,0,1212.72,588.17,624.55
+TXN-00020,2024-03-21,2024-03,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,General Trade,Karan Malhotra,53,9.62,509.86,15,433.38,177.85,255.53
+TXN-00436,2024-03-21,2024-03,Q1-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Modern Trade,Meena Krishnan,359,10.31,3701.29,15,3146.1,1554.44,1591.66
+TXN-00102,2024-03-23,2024-03,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Rohan Gupta,316,7.39,2335.24,5,2218.48,1131.82,1086.66
+TXN-00466,2024-03-23,2024-03,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,E-Commerce,Anita Desai,259,4.9,1269.1,0,1269.1,567.3,701.8
+TXN-00823,2024-03-23,2024-03,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Rahul Mehta,210,5.39,1131.9,0,1131.9,615.46,516.44
+TXN-00181,2024-03-24,2024-03,Q1-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,General Trade,Arjun Rao,308,6.75,2079.0,0,2079.0,928.35,1150.65
+TXN-00267,2024-03-24,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Karan Malhotra,279,5.36,1495.44,10,1345.9,611.4,734.5
+TXN-00310,2024-03-25,2024-03,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Rahul Mehta,147,1.37,201.39,10,181.25,93.81,87.44
+TXN-00190,2024-03-26,2024-03,Q1-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Modern Trade,Sneha Patel,400,5.2,2080.0,5,1976.0,1058.73,917.27
+TXN-00904,2024-03-26,2024-03,Q1-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Priya Sharma,170,5.3,901.0,15,765.85,313.64,452.21
+TXN-00178,2024-03-27,2024-03,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Arjun Rao,268,6.3,1688.4,0,1688.4,738.1,950.3
+TXN-00760,2024-03-27,2024-03,Q1-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Modern Trade,Arjun Rao,84,4.63,388.92,15,330.58,139.88,190.7
+TXN-00920,2024-03-27,2024-03,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Vikram Nair,222,1.94,430.68,5,409.15,217.45,191.7
+TXN-00153,2024-03-28,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Rahul Mehta,57,8.63,491.91,10,442.72,226.15,216.57
+TXN-00560,2024-03-28,2024-03,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Modern Trade,Sneha Patel,120,1.54,184.8,5,175.56,93.06,82.5
+TXN-00365,2024-03-29,2024-03,Q1-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Vikram Nair,469,3.18,1491.42,15,1267.71,530.5,737.21
+TXN-00770,2024-03-29,2024-03,Q1-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Rahul Mehta,448,6.95,3113.6,5,2957.92,1474.4,1483.52
+TXN-00437,2024-03-30,2024-03,Q1-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Rahul Mehta,208,1.98,411.84,5,391.25,175.64,215.61
+TXN-00702,2024-03-30,2024-03,Q1-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,E-Commerce,Arjun Rao,35,4.86,170.1,0,170.1,72.16,97.94
+TXN-00841,2024-03-30,2024-03,Q1-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Divya Joshi,120,2.03,243.6,5,231.42,118.31,113.11
+TXN-00631,2024-04-01,2024-04,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Arjun Rao,137,3.29,450.73,0,450.73,226.67,224.06
+TXN-00623,2024-04-02,2024-04,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Vikram Nair,87,4.99,434.13,0,434.13,195.92,238.21
+TXN-00740,2024-04-02,2024-04,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Priya Sharma,121,3.98,481.58,5,457.5,244.99,212.51
+TXN-00906,2024-04-02,2024-04,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Rohan Gupta,131,5.91,774.21,15,658.08,342.86,315.22
+TXN-00894,2024-04-04,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,General Trade,Karan Malhotra,377,1.68,633.36,0,633.36,309.57,323.79
+TXN-00301,2024-04-05,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Priya Sharma,217,11.33,2458.61,5,2335.68,1101.04,1234.64
+TXN-00026,2024-04-06,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Direct to Consumer,Vikram Nair,59,12.16,717.44,0,717.44,332.56,384.88
+TXN-00564,2024-04-08,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Karan Malhotra,100,6.79,679.0,5,645.05,316.06,328.99
+TXN-00854,2024-04-08,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Arjun Rao,283,8.33,2357.39,15,2003.78,844.71,1159.07
+TXN-00237,2024-04-09,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Modern Trade,Anita Desai,211,1.53,322.83,0,322.83,156.14,166.69
+TXN-00096,2024-04-11,2024-04,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Karan Malhotra,495,4.34,2148.3,10,1933.47,834.59,1098.88
+TXN-00356,2024-04-11,2024-04,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,Modern Trade,Priya Sharma,330,5.22,1722.6,5,1636.47,658.58,977.89
+TXN-00915,2024-04-12,2024-04,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Meena Krishnan,432,6.09,2630.88,0,2630.88,1252.17,1378.71
+TXN-00455,2024-04-14,2024-04,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Karan Malhotra,13,7.76,100.88,10,90.79,49.48,41.31
+TXN-00552,2024-04-15,2024-04,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Modern Trade,Arjun Rao,370,5.56,2057.2,10,1851.48,971.0,880.48
+TXN-00723,2024-04-15,2024-04,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Priya Sharma,276,5.89,1625.64,10,1463.08,653.81,809.27
+TXN-00505,2024-04-16,2024-04,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Anita Desai,208,6.42,1335.36,5,1268.59,675.4,593.19
+TXN-00478,2024-04-17,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Meena Krishnan,271,1.24,336.04,0,336.04,148.67,187.37
+TXN-00017,2024-04-18,2024-04,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,General Trade,Divya Joshi,455,6.73,3062.15,15,2602.83,1290.59,1312.24
+TXN-00327,2024-04-18,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Meena Krishnan,15,9.07,136.05,0,136.05,64.84,71.21
+TXN-00728,2024-04-18,2024-04,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Direct to Consumer,Priya Sharma,206,8.61,1773.66,5,1684.98,773.05,911.93
+TXN-00311,2024-04-19,2024-04,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,E-Commerce,Arjun Rao,56,11.12,622.72,0,622.72,290.63,332.09
+TXN-00317,2024-04-19,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,General Trade,Rohan Gupta,79,10.06,794.74,5,755.0,339.62,415.38
+TXN-00590,2024-04-19,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Anita Desai,71,11.76,834.96,10,751.46,408.32,343.14
+TXN-00077,2024-04-20,2024-04,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,General Trade,Sneha Patel,306,3.58,1095.48,0,1095.48,532.81,562.67
+TXN-00135,2024-04-20,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Direct to Consumer,Arjun Rao,355,6.76,2399.8,0,2399.8,1182.94,1216.86
+TXN-00252,2024-04-21,2024-04,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,E-Commerce,Anita Desai,325,2.82,916.5,0,916.5,399.93,516.57
+TXN-00544,2024-04-21,2024-04,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Divya Joshi,99,2.01,198.99,0,198.99,104.72,94.27
+TXN-00563,2024-04-21,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Direct to Consumer,Anita Desai,18,11.61,208.98,15,177.63,95.28,82.35
+TXN-00196,2024-04-23,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Direct to Consumer,Rahul Mehta,438,6.19,2711.22,5,2575.66,1237.37,1338.29
+TXN-00988,2024-04-23,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Divya Joshi,384,10.01,3843.84,0,3843.84,1687.31,2156.53
+TXN-00019,2024-04-24,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Priya Sharma,485,1.63,790.55,15,671.97,350.11,321.86
+TXN-00824,2024-04-24,2024-04,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Sneha Patel,366,4.97,1819.02,0,1819.02,966.35,852.67
+TXN-00487,2024-04-25,2024-04,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Direct to Consumer,Anita Desai,77,4.5,346.5,0,346.5,189.62,156.88
+TXN-00629,2024-04-25,2024-04,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Vikram Nair,130,11.62,1510.6,0,1510.6,607.65,902.95
+TXN-00344,2024-04-26,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Modern Trade,Karan Malhotra,147,2.13,313.11,15,266.14,146.01,120.13
+TXN-00168,2024-04-27,2024-04,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Direct to Consumer,Sneha Patel,217,1.8,390.6,0,390.6,166.31,224.29
+TXN-00762,2024-04-28,2024-04,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Sneha Patel,36,4.44,159.84,5,151.85,71.59,80.26
+TXN-00936,2024-04-28,2024-04,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Meena Krishnan,468,8.53,3992.04,0,3992.04,1861.2,2130.84
+TXN-00583,2024-04-29,2024-04,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,E-Commerce,Arjun Rao,421,2.89,1216.69,0,1216.69,646.57,570.12
+TXN-00585,2024-04-29,2024-04,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Modern Trade,Rohan Gupta,142,5.55,788.1,10,709.29,367.62,341.67
+TXN-00831,2024-04-29,2024-04,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Vikram Nair,31,5.65,175.15,5,166.39,69.71,96.68
+TXN-00214,2024-04-30,2024-04,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Direct to Consumer,Divya Joshi,144,10.1,1454.4,10,1308.96,611.21,697.75
+TXN-00698,2024-04-30,2024-04,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Anita Desai,470,5.49,2580.3,0,2580.3,1033.49,1546.81
+TXN-00923,2024-04-30,2024-04,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,General Trade,Karan Malhotra,17,5.02,85.34,5,81.07,41.83,39.24
+TXN-00274,2024-05-01,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Arjun Rao,101,5.35,540.35,5,513.33,246.05,267.28
+TXN-00496,2024-05-01,2024-05,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Direct to Consumer,Arjun Rao,264,6.71,1771.44,0,1771.44,735.85,1035.59
+TXN-00862,2024-05-01,2024-05,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Rohan Gupta,475,2.12,1007.0,0,1007.0,448.36,558.64
+TXN-00165,2024-05-02,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Arjun Rao,13,10.23,132.99,5,126.34,53.87,72.47
+TXN-00656,2024-05-03,2024-05,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Meena Krishnan,455,2.04,928.2,10,835.38,415.95,419.43
+TXN-00998,2024-05-03,2024-05,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,Direct to Consumer,Rahul Mehta,199,2.09,415.91,0,415.91,198.98,216.93
+TXN-00215,2024-05-05,2024-05,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Vikram Nair,79,1.71,135.09,5,128.34,54.66,73.68
+TXN-00101,2024-05-07,2024-05,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,E-Commerce,Rohan Gupta,249,4.36,1085.64,10,977.08,449.82,527.26
+TXN-00847,2024-05-07,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Rohan Gupta,344,10.41,3581.04,0,3581.04,1656.49,1924.55
+TXN-00860,2024-05-08,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,General Trade,Sneha Patel,117,6.42,751.14,0,751.14,348.32,402.82
+TXN-00959,2024-05-08,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Rahul Mehta,79,8.99,710.21,0,710.21,371.01,339.2
+TXN-00118,2024-05-09,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Priya Sharma,267,6.58,1756.86,0,1756.86,931.94,824.92
+TXN-00377,2024-05-09,2024-05,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Arjun Rao,393,3.69,1450.17,0,1450.17,739.5,710.67
+TXN-00071,2024-05-10,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Rohan Gupta,328,6.83,2240.24,5,2128.23,1040.24,1087.99
+TXN-00996,2024-05-10,2024-05,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,General Trade,Divya Joshi,258,3.06,789.48,0,789.48,430.43,359.05
+TXN-00925,2024-05-13,2024-05,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Meena Krishnan,230,9.36,2152.8,5,2045.16,884.19,1160.97
+TXN-00682,2024-05-14,2024-05,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,General Trade,Rahul Mehta,104,6.68,694.72,5,659.98,325.07,334.91
+TXN-00363,2024-05-16,2024-05,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,General Trade,Meena Krishnan,338,1.78,601.64,0,601.64,246.83,354.81
+TXN-00391,2024-05-16,2024-05,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Modern Trade,Divya Joshi,336,5.55,1864.8,0,1864.8,911.49,953.31
+TXN-00040,2024-05-17,2024-05,Q2-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,E-Commerce,Rahul Mehta,145,4.87,706.15,0,706.15,361.1,345.05
+TXN-00543,2024-05-17,2024-05,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Arjun Rao,357,5.83,2081.31,5,1977.24,928.17,1049.07
+TXN-00883,2024-05-17,2024-05,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Direct to Consumer,Meena Krishnan,169,3.87,654.03,5,621.33,319.74,301.59
+TXN-00072,2024-05-18,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Modern Trade,Meena Krishnan,453,7.94,3596.82,0,3596.82,1579.09,2017.73
+TXN-00202,2024-05-18,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Direct to Consumer,Anita Desai,42,8.11,340.62,5,323.59,131.23,192.36
+TXN-00341,2024-05-19,2024-05,Q2-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Rohan Gupta,109,5.61,611.49,5,580.92,276.41,304.51
+TXN-00465,2024-05-20,2024-05,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Modern Trade,Anita Desai,112,11.14,1247.68,5,1185.3,632.86,552.44
+TXN-00012,2024-05-22,2024-05,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Sneha Patel,136,6.97,947.92,5,900.52,395.7,504.82
+TXN-00555,2024-05-22,2024-05,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Modern Trade,Divya Joshi,235,5.6,1316.0,0,1316.0,627.97,688.03
+TXN-00306,2024-05-23,2024-05,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,E-Commerce,Meena Krishnan,414,4.13,1709.82,10,1538.84,633.64,905.2
+TXN-00549,2024-05-23,2024-05,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Divya Joshi,238,7.43,1768.34,5,1679.92,911.03,768.89
+TXN-00905,2024-05-23,2024-05,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Meena Krishnan,130,4.06,527.8,10,475.02,225.65,249.37
+TXN-00100,2024-05-25,2024-05,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Sneha Patel,46,1.72,79.12,15,67.25,30.0,37.25
+TXN-00159,2024-05-25,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,Direct to Consumer,Rahul Mehta,389,7.88,3065.32,0,3065.32,1268.32,1797.0
+TXN-00561,2024-05-26,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,Direct to Consumer,Karan Malhotra,416,7.84,3261.44,15,2772.22,1184.52,1587.7
+TXN-00119,2024-05-27,2024-05,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Direct to Consumer,Priya Sharma,219,5.03,1101.57,0,1101.57,452.99,648.58
+TXN-00113,2024-05-28,2024-05,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Divya Joshi,206,4.06,836.36,5,794.54,378.39,416.15
+TXN-00144,2024-05-28,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Sneha Patel,76,8.11,616.36,15,523.91,223.28,300.63
+TXN-00679,2024-05-28,2024-05,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,General Trade,Meena Krishnan,345,7.69,2653.05,0,2653.05,1187.57,1465.48
+TXN-00981,2024-05-29,2024-05,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Rohan Gupta,404,2.41,973.64,15,827.59,395.26,432.33
+TXN-00060,2024-05-30,2024-05,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,General Trade,Vikram Nair,22,8.57,188.54,5,179.11,88.07,91.04
+TXN-00299,2024-06-01,2024-06,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Modern Trade,Divya Joshi,133,9.56,1271.48,5,1207.91,528.9,679.01
+TXN-00403,2024-06-01,2024-06,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Rohan Gupta,27,10.35,279.45,5,265.48,115.98,149.5
+TXN-00786,2024-06-01,2024-06,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Divya Joshi,389,5.23,2034.47,0,2034.47,825.04,1209.43
+TXN-00951,2024-06-01,2024-06,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Direct to Consumer,Sneha Patel,75,4.12,309.0,0,309.0,162.61,146.39
+TXN-00067,2024-06-03,2024-06,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Modern Trade,Anita Desai,128,1.84,235.52,0,235.52,119.16,116.36
+TXN-00174,2024-06-03,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Arjun Rao,235,1.61,378.35,5,359.43,177.81,181.62
+TXN-00747,2024-06-06,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,E-Commerce,Meena Krishnan,157,3.31,519.67,10,467.7,195.89,271.81
+TXN-00941,2024-06-06,2024-06,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Modern Trade,Arjun Rao,24,1.78,42.72,15,36.31,18.38,17.93
+TXN-00977,2024-06-06,2024-06,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Rahul Mehta,341,10.19,3474.79,15,2953.57,1242.47,1711.1
+TXN-00004,2024-06-08,2024-06,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,E-Commerce,Sneha Patel,120,12.23,1467.6,0,1467.6,609.54,858.06
+TXN-00161,2024-06-08,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Modern Trade,Priya Sharma,90,1.59,143.1,0,143.1,71.71,71.39
+TXN-00834,2024-06-08,2024-06,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Arjun Rao,12,4.39,52.68,5,50.05,27.34,22.71
+TXN-00970,2024-06-09,2024-06,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,General Trade,Vikram Nair,320,3.59,1148.8,15,976.48,451.52,524.96
+TXN-00016,2024-06-10,2024-06,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,E-Commerce,Meena Krishnan,242,2.35,568.7,10,511.83,271.98,239.85
+TXN-00254,2024-06-10,2024-06,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Divya Joshi,218,6.99,1523.82,5,1447.63,682.73,764.9
+TXN-00556,2024-06-10,2024-06,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,General Trade,Anita Desai,195,7.08,1380.6,15,1173.51,490.23,683.28
+TXN-00725,2024-06-10,2024-06,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,E-Commerce,Anita Desai,150,5.55,832.5,5,790.88,382.74,408.14
+TXN-00446,2024-06-11,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Divya Joshi,43,2.49,107.07,5,101.72,46.84,54.88
+TXN-00048,2024-06-12,2024-06,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,General Trade,Sneha Patel,413,1.98,817.74,5,776.85,412.37,364.48
+TXN-00231,2024-06-12,2024-06,Q2-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Vikram Nair,426,3.25,1384.5,5,1315.27,668.38,646.89
+TXN-00799,2024-06-12,2024-06,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Direct to Consumer,Anita Desai,353,10.24,3614.72,0,3614.72,1795.54,1819.18
+TXN-00018,2024-06-14,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Arjun Rao,286,1.34,383.24,5,364.08,195.79,168.29
+TXN-00043,2024-06-14,2024-06,Q2-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,General Trade,Sneha Patel,389,4.23,1645.47,10,1480.92,687.37,793.55
+TXN-00222,2024-06-14,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Anita Desai,175,2.6,455.0,0,455.0,205.62,249.38
+TXN-00606,2024-06-14,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Modern Trade,Rahul Mehta,185,2.01,371.85,0,371.85,185.16,186.69
+TXN-00833,2024-06-15,2024-06,Q2-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Direct to Consumer,Divya Joshi,283,8.43,2385.69,0,2385.69,1099.05,1286.64
+TXN-00450,2024-06-16,2024-06,Q2-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,E-Commerce,Arjun Rao,438,4.91,2150.58,10,1935.52,1015.43,920.09
+TXN-00394,2024-06-17,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,General Trade,Rahul Mehta,240,1.48,355.2,5,337.44,141.09,196.35
+TXN-00473,2024-06-17,2024-06,Q2-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,E-Commerce,Vikram Nair,495,2.81,1390.95,15,1182.31,544.46,637.85
+TXN-00326,2024-06-19,2024-06,Q2-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Arjun Rao,341,5.21,1776.61,5,1687.78,924.13,763.65
+TXN-00559,2024-06-19,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,General Trade,Priya Sharma,142,2.17,308.14,5,292.73,159.17,133.56
+TXN-00853,2024-06-20,2024-06,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Karan Malhotra,288,6.76,1946.88,0,1946.88,1020.21,926.67
+TXN-00315,2024-06-22,2024-06,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Meena Krishnan,81,7.52,609.12,0,609.12,288.7,320.42
+TXN-00424,2024-06-23,2024-06,Q2-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Arjun Rao,464,10.24,4751.36,10,4276.22,1758.6,2517.62
+TXN-00866,2024-06-24,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Sneha Patel,471,1.84,866.64,0,866.64,473.22,393.42
+TXN-00441,2024-06-25,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Direct to Consumer,Priya Sharma,151,1.4,211.4,5,200.83,98.67,102.16
+TXN-00097,2024-06-26,2024-06,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Vikram Nair,292,5.97,1743.24,0,1743.24,804.12,939.12
+TXN-00409,2024-06-26,2024-06,Q2-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Arjun Rao,100,8.74,874.0,0,874.0,455.29,418.71
+TXN-00654,2024-06-26,2024-06,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,E-Commerce,Rohan Gupta,259,5.4,1398.6,10,1258.74,636.2,622.54
+TXN-00124,2024-06-28,2024-06,Q2-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Anita Desai,50,2.29,114.5,5,108.77,53.62,55.15
+TXN-00599,2024-06-29,2024-06,Q2-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Direct to Consumer,Priya Sharma,225,3.79,852.75,15,724.84,358.5,366.34
+TXN-00047,2024-06-30,2024-06,Q2-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Anita Desai,461,1.27,585.47,0,585.47,298.87,286.6
+TXN-00686,2024-06-30,2024-06,Q2-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Rahul Mehta,484,5.63,2724.92,5,2588.67,1372.17,1216.5
+TXN-00640,2024-07-01,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Modern Trade,Anita Desai,457,2.53,1156.21,0,1156.21,546.66,609.55
+TXN-00697,2024-07-02,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Anita Desai,403,1.31,527.93,5,501.53,223.79,277.74
+TXN-00708,2024-07-03,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,Direct to Consumer,Rohan Gupta,462,4.01,1852.62,10,1667.36,739.6,927.76
+TXN-00938,2024-07-03,2024-07,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,General Trade,Sneha Patel,437,1.72,751.64,5,714.06,373.73,340.33
+TXN-00538,2024-07-04,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Rahul Mehta,353,1.46,515.38,15,438.07,178.8,259.27
+TXN-00486,2024-07-06,2024-07,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,E-Commerce,Arjun Rao,68,5.17,351.56,5,333.98,147.21,186.77
+TXN-00608,2024-07-07,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Direct to Consumer,Anita Desai,447,2.52,1126.44,10,1013.8,441.2,572.6
+TXN-00684,2024-07-07,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Arjun Rao,446,4.14,1846.44,5,1754.12,737.83,1016.29
+TXN-00701,2024-07-08,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,General Trade,Priya Sharma,85,1.9,161.5,0,161.5,65.49,96.01
+TXN-00309,2024-07-09,2024-07,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Direct to Consumer,Meena Krishnan,358,1.72,615.76,5,584.97,241.51,343.46
+TXN-00339,2024-07-09,2024-07,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Meena Krishnan,259,7.47,1934.73,10,1741.26,936.58,804.68
+TXN-00750,2024-07-09,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Vikram Nair,227,6.37,1445.99,5,1373.69,652.12,721.57
+TXN-00845,2024-07-09,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Vikram Nair,436,2.24,976.64,5,927.81,439.4,488.41
+TXN-00312,2024-07-10,2024-07,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,General Trade,Rahul Mehta,230,8.08,1858.4,5,1765.48,841.9,923.58
+TXN-00335,2024-07-10,2024-07,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Divya Joshi,197,10.19,2007.43,5,1907.06,795.42,1111.64
+TXN-00956,2024-07-10,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Arjun Rao,118,6.1,719.8,10,647.82,354.57,293.25
+TXN-00116,2024-07-12,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Direct to Consumer,Arjun Rao,367,2.58,946.86,5,899.52,391.32,508.2
+TXN-00935,2024-07-12,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Priya Sharma,86,4.0,344.0,0,344.0,139.45,204.55
+TXN-00053,2024-07-13,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Karan Malhotra,140,2.31,323.4,5,307.23,122.97,184.26
+TXN-00287,2024-07-13,2024-07,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Modern Trade,Vikram Nair,389,2.09,813.01,15,691.06,326.07,364.99
+TXN-00085,2024-07-14,2024-07,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Divya Joshi,53,4.47,236.91,5,225.06,106.52,118.54
+TXN-00285,2024-07-14,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,Modern Trade,Divya Joshi,36,4.95,178.2,10,160.38,78.71,81.67
+TXN-00967,2024-07-15,2024-07,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,General Trade,Sneha Patel,250,3.41,852.5,0,852.5,405.91,446.59
+TXN-00447,2024-07-16,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Anita Desai,458,2.25,1030.5,15,875.92,357.94,517.98
+TXN-00645,2024-07-16,2024-07,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Direct to Consumer,Vikram Nair,279,3.85,1074.15,5,1020.44,503.89,516.55
+TXN-00090,2024-07-17,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,E-Commerce,Rahul Mehta,161,2.3,370.3,0,370.3,164.91,205.39
+TXN-00061,2024-07-18,2024-07,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Direct to Consumer,Karan Malhotra,377,6.68,2518.36,5,2392.44,1100.4,1292.04
+TXN-00464,2024-07-18,2024-07,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Rohan Gupta,266,4.48,1191.68,10,1072.51,490.41,582.1
+TXN-00838,2024-07-19,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Sneha Patel,21,1.16,24.36,15,20.71,9.67,11.04
+TXN-00223,2024-07-20,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Sneha Patel,335,2.65,887.75,0,887.75,371.77,515.98
+TXN-00172,2024-07-21,2024-07,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,General Trade,Sneha Patel,98,9.5,931.0,15,791.35,406.65,384.7
+TXN-00127,2024-07-22,2024-07,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Sneha Patel,206,4.0,824.0,0,824.0,358.92,465.08
+TXN-00603,2024-07-22,2024-07,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,E-Commerce,Karan Malhotra,305,4.85,1479.25,10,1331.33,640.06,691.27
+TXN-00802,2024-07-22,2024-07,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Meena Krishnan,392,5.8,2273.6,0,2273.6,987.9,1285.7
+TXN-00075,2024-07-23,2024-07,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Modern Trade,Vikram Nair,439,6.26,2748.14,0,2748.14,1197.59,1550.55
+TXN-00321,2024-07-23,2024-07,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Karan Malhotra,313,4.44,1389.72,0,1389.72,698.0,691.72
+TXN-00469,2024-07-23,2024-07,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Modern Trade,Divya Joshi,384,4.37,1678.08,0,1678.08,895.76,782.32
+TXN-00479,2024-07-23,2024-07,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,General Trade,Karan Malhotra,408,5.48,2235.84,5,2124.05,1159.66,964.39
+TXN-00665,2024-07-23,2024-07,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Vikram Nair,360,10.63,3826.8,15,3252.78,1656.55,1596.23
+TXN-00724,2024-07-24,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Arjun Rao,108,1.39,150.12,5,142.61,63.87,78.74
+TXN-00719,2024-07-25,2024-07,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Priya Sharma,477,10.29,4908.33,5,4662.91,1882.6,2780.31
+TXN-00516,2024-07-26,2024-07,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Modern Trade,Sneha Patel,327,2.75,899.25,15,764.36,405.51,358.85
+TXN-00036,2024-07-28,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Sneha Patel,352,1.72,605.44,0,605.44,266.3,339.14
+TXN-00426,2024-07-29,2024-07,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Modern Trade,Arjun Rao,107,9.78,1046.46,5,994.14,505.33,488.81
+TXN-00863,2024-07-29,2024-07,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Modern Trade,Karan Malhotra,310,5.92,1835.2,0,1835.2,918.68,916.52
+TXN-00277,2024-07-30,2024-07,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Vikram Nair,44,5.96,262.24,0,262.24,122.46,139.78
+TXN-00348,2024-07-30,2024-07,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Vikram Nair,422,6.04,2548.88,0,2548.88,1223.06,1325.82
+TXN-00143,2024-07-31,2024-07,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,Modern Trade,Divya Joshi,310,1.59,492.9,15,418.96,182.23,236.73
+TXN-00246,2024-07-31,2024-07,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Divya Joshi,297,4.09,1214.73,10,1093.26,515.75,577.51
+TXN-00642,2024-08-01,2024-08,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Modern Trade,Priya Sharma,345,9.82,3387.9,15,2879.72,1186.43,1693.29
+TXN-00467,2024-08-02,2024-08,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Direct to Consumer,Sneha Patel,399,5.34,2130.66,5,2024.13,1041.76,982.37
+TXN-00895,2024-08-02,2024-08,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Meena Krishnan,187,9.75,1823.25,10,1640.92,859.12,781.8
+TXN-00041,2024-08-03,2024-08,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Karan Malhotra,377,10.08,3800.16,10,3420.14,1693.43,1726.71
+TXN-00527,2024-08-03,2024-08,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Rahul Mehta,353,8.18,2887.54,0,2887.54,1529.65,1357.89
+TXN-00303,2024-08-04,2024-08,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Modern Trade,Vikram Nair,471,5.58,2628.18,5,2496.77,1176.79,1319.98
+TXN-00546,2024-08-05,2024-08,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Karan Malhotra,474,6.94,3289.56,0,3289.56,1583.99,1705.57
+TXN-00360,2024-08-06,2024-08,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Modern Trade,Priya Sharma,254,7.63,1938.02,5,1841.12,798.91,1042.21
+TXN-00025,2024-08-07,2024-08,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Rohan Gupta,286,2.4,686.4,5,652.08,317.19,334.89
+TXN-00868,2024-08-07,2024-08,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Direct to Consumer,Meena Krishnan,273,8.37,2285.01,0,2285.01,1174.98,1110.03
+TXN-00233,2024-08-08,2024-08,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Vikram Nair,308,3.26,1004.08,0,1004.08,444.01,560.07
+TXN-00089,2024-08-09,2024-08,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Vikram Nair,388,3.07,1191.16,10,1072.04,523.63,548.41
+TXN-00345,2024-08-11,2024-08,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Divya Joshi,227,2.33,528.91,15,449.57,223.91,225.66
+TXN-00588,2024-08-11,2024-08,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,E-Commerce,Arjun Rao,467,11.79,5505.93,0,5505.93,2984.59,2521.34
+TXN-00013,2024-08-12,2024-08,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Direct to Consumer,Arjun Rao,80,1.89,151.2,0,151.2,77.62,73.58
+TXN-00062,2024-08-12,2024-08,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Modern Trade,Meena Krishnan,100,10.17,1017.0,10,915.3,437.23,478.07
+TXN-00070,2024-08-12,2024-08,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,General Trade,Rohan Gupta,149,3.76,560.24,0,560.24,256.77,303.47
+TXN-00522,2024-08-14,2024-08,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Modern Trade,Arjun Rao,462,2.81,1298.22,0,1298.22,583.76,714.46
+TXN-00810,2024-08-15,2024-08,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Karan Malhotra,466,10.92,5088.72,0,5088.72,2732.96,2355.76
+TXN-00554,2024-08-16,2024-08,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Meena Krishnan,274,5.79,1586.46,15,1348.49,714.91,633.58
+TXN-00111,2024-08-18,2024-08,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Rahul Mehta,440,2.53,1113.2,5,1057.54,573.25,484.29
+TXN-00184,2024-08-19,2024-08,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Vikram Nair,80,10.11,808.8,0,808.8,425.97,382.83
+TXN-00433,2024-08-20,2024-08,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Karan Malhotra,293,5.48,1605.64,5,1525.36,797.4,727.96
+TXN-00530,2024-08-21,2024-08,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Karan Malhotra,476,8.28,3941.28,5,3744.22,1751.06,1993.16
+TXN-00024,2024-08-22,2024-08,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,Modern Trade,Priya Sharma,44,12.5,550.0,15,467.5,210.17,257.33
+TXN-00103,2024-08-22,2024-08,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Rahul Mehta,355,1.87,663.85,5,630.66,307.81,322.85
+TXN-00129,2024-08-23,2024-08,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Sneha Patel,320,7.5,2400.0,0,2400.0,1189.18,1210.82
+TXN-00573,2024-08-23,2024-08,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,General Trade,Rahul Mehta,238,4.22,1004.36,0,1004.36,416.85,587.51
+TXN-00683,2024-08-25,2024-08,Q3-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Karan Malhotra,128,1.24,158.72,0,158.72,65.38,93.34
+TXN-00187,2024-08-27,2024-08,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,E-Commerce,Rohan Gupta,283,4.6,1301.8,15,1106.53,572.8,533.73
+TXN-00495,2024-08-28,2024-08,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Meena Krishnan,50,8.94,447.0,15,379.95,184.64,195.31
+TXN-00589,2024-08-28,2024-08,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Vikram Nair,386,6.12,2362.32,0,2362.32,1018.2,1344.12
+TXN-00434,2024-08-29,2024-08,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Karan Malhotra,253,3.24,819.72,5,778.73,416.94,361.79
+TXN-00598,2024-08-29,2024-08,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Sneha Patel,294,6.84,2010.96,5,1910.41,820.35,1090.06
+TXN-00797,2024-08-29,2024-08,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Modern Trade,Divya Joshi,108,2.39,258.12,5,245.21,134.01,111.2
+TXN-00901,2024-08-29,2024-08,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,E-Commerce,Karan Malhotra,217,9.48,2057.16,0,2057.16,882.08,1175.08
+TXN-00803,2024-08-30,2024-08,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,General Trade,Rahul Mehta,387,4.87,1884.69,0,1884.69,860.04,1024.65
+TXN-00374,2024-09-01,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Meena Krishnan,39,8.44,329.16,5,312.7,130.52,182.18
+TXN-00288,2024-09-02,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Meena Krishnan,292,7.56,2207.52,0,2207.52,1009.06,1198.46
+TXN-00368,2024-09-02,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,E-Commerce,Priya Sharma,263,14.09,3705.67,0,3705.67,1759.96,1945.71
+TXN-00200,2024-09-03,2024-09,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Arjun Rao,385,5.52,2125.2,0,2125.2,1096.02,1029.18
+TXN-00677,2024-09-03,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Meena Krishnan,303,4.93,1493.79,0,1493.79,801.36,692.43
+TXN-00323,2024-09-04,2024-09,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,General Trade,Sneha Patel,139,3.84,533.76,10,480.38,222.64,257.74
+TXN-00284,2024-09-05,2024-09,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Meena Krishnan,140,2.75,385.0,10,346.5,142.71,203.79
+TXN-00630,2024-09-05,2024-09,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Meena Krishnan,14,8.88,124.32,5,118.1,61.12,56.98
+TXN-00332,2024-09-06,2024-09,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Anita Desai,274,5.26,1441.24,0,1441.24,648.05,793.19
+TXN-00792,2024-09-06,2024-09,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Rohan Gupta,483,3.62,1748.46,0,1748.46,725.6,1022.86
+TXN-00001,2024-09-07,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Modern Trade,Sneha Patel,124,7.68,952.32,0,952.32,477.59,474.73
+TXN-00009,2024-09-07,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Divya Joshi,93,6.21,577.53,0,577.53,316.73,260.8
+TXN-00978,2024-09-08,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Direct to Consumer,Priya Sharma,437,12.34,5392.58,0,5392.58,2388.99,3003.59
+TXN-00248,2024-09-09,2024-09,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Direct to Consumer,Vikram Nair,152,4.21,639.92,0,639.92,346.34,293.58
+TXN-00351,2024-09-10,2024-09,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,General Trade,Arjun Rao,399,6.9,2753.1,5,2615.44,1238.2,1377.24
+TXN-00673,2024-09-10,2024-09,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Modern Trade,Priya Sharma,482,2.91,1402.62,0,1402.62,664.13,738.49
+TXN-00626,2024-09-11,2024-09,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Modern Trade,Rahul Mehta,207,11.62,2405.34,5,2285.07,998.75,1286.32
+TXN-00618,2024-09-12,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Direct to Consumer,Meena Krishnan,93,12.23,1137.39,10,1023.65,469.3,554.35
+TXN-00600,2024-09-13,2024-09,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Sneha Patel,297,2.4,712.8,0,712.8,327.72,385.08
+TXN-00634,2024-09-13,2024-09,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,E-Commerce,Anita Desai,470,6.44,3026.8,10,2724.12,1268.42,1455.7
+TXN-00694,2024-09-13,2024-09,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Direct to Consumer,Rahul Mehta,175,3.86,675.5,10,607.95,315.81,292.14
+TXN-00088,2024-09-14,2024-09,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,E-Commerce,Sneha Patel,128,2.6,332.8,0,332.8,148.87,183.93
+TXN-00107,2024-09-15,2024-09,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Arjun Rao,175,5.97,1044.75,15,888.04,409.05,478.99
+TXN-00930,2024-09-16,2024-09,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Modern Trade,Priya Sharma,268,1.89,506.52,0,506.52,276.88,229.64
+TXN-00501,2024-09-17,2024-09,Q3-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Rahul Mehta,322,4.06,1307.32,0,1307.32,705.34,601.98
+TXN-00601,2024-09-17,2024-09,Q3-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Vikram Nair,253,4.29,1085.37,0,1085.37,507.39,577.98
+TXN-00132,2024-09-20,2024-09,Q3-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,E-Commerce,Anita Desai,477,2.85,1359.45,5,1291.48,704.0,587.48
+TXN-00973,2024-09-21,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,General Trade,Rohan Gupta,184,9.67,1779.28,15,1512.39,615.54,896.85
+TXN-00397,2024-09-23,2024-09,Q3-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Modern Trade,Sneha Patel,429,3.8,1630.2,0,1630.2,884.9,745.3
+TXN-00463,2024-09-23,2024-09,Q3-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,E-Commerce,Arjun Rao,309,12.05,3723.45,15,3164.93,1321.89,1843.04
+TXN-00756,2024-09-23,2024-09,Q3-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Karan Malhotra,41,10.86,445.26,5,423.0,179.93,243.07
+TXN-00610,2024-09-25,2024-09,Q3-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Rahul Mehta,326,6.0,1956.0,10,1760.4,950.16,810.24
+TXN-00346,2024-09-26,2024-09,Q3-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Rohan Gupta,188,11.89,2235.32,0,2235.32,1041.35,1193.97
+TXN-00483,2024-09-27,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Sneha Patel,247,6.0,1482.0,15,1259.7,536.89,722.81
+TXN-00038,2024-09-28,2024-09,Q3-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,General Trade,Divya Joshi,77,4.39,338.03,0,338.03,179.79,158.24
+TXN-00109,2024-09-30,2024-09,Q3-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Vikram Nair,291,8.37,2435.67,0,2435.67,1134.33,1301.34
+TXN-00230,2024-09-30,2024-09,Q3-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Direct to Consumer,Rahul Mehta,240,1.75,420.0,0,420.0,171.19,248.81
+TXN-00082,2024-10-01,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Karan Malhotra,175,5.48,959.0,15,815.15,440.34,374.81
+TXN-00620,2024-10-02,2024-10,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Divya Joshi,221,1.91,422.11,0,422.11,180.39,241.72
+TXN-00406,2024-10-03,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,E-Commerce,Meena Krishnan,102,5.25,535.5,5,508.72,220.2,288.52
+TXN-00378,2024-10-05,2024-10,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,E-Commerce,Meena Krishnan,278,6.84,1901.52,10,1711.37,934.85,776.52
+TXN-00393,2024-10-05,2024-10,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,E-Commerce,Rohan Gupta,129,4.78,616.62,0,616.62,259.24,357.38
+TXN-00158,2024-10-06,2024-10,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Modern Trade,Anita Desai,369,7.81,2881.89,0,2881.89,1304.5,1577.39
+TXN-00914,2024-10-07,2024-10,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Direct to Consumer,Priya Sharma,453,6.65,3012.45,15,2560.58,1385.46,1175.12
+TXN-00343,2024-10-08,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,E-Commerce,Priya Sharma,125,5.36,670.0,0,670.0,346.46,323.54
+TXN-00571,2024-10-09,2024-10,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,E-Commerce,Karan Malhotra,358,3.9,1396.2,0,1396.2,645.02,751.18
+TXN-00848,2024-10-10,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Modern Trade,Rahul Mehta,262,4.82,1262.84,0,1262.84,618.58,644.26
+TXN-00903,2024-10-11,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Modern Trade,Sneha Patel,347,9.0,3123.0,10,2810.7,1483.71,1326.99
+TXN-00050,2024-10-12,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,Direct to Consumer,Arjun Rao,452,4.3,1943.6,15,1652.06,729.99,922.07
+TXN-00809,2024-10-12,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Rohan Gupta,17,4.29,72.93,10,65.64,34.85,30.79
+TXN-00597,2024-10-13,2024-10,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,E-Commerce,Meena Krishnan,240,4.83,1159.2,0,1159.2,633.96,525.24
+TXN-00984,2024-10-13,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,E-Commerce,Priya Sharma,470,10.79,5071.3,0,5071.3,2561.23,2510.07
+TXN-00758,2024-10-14,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,General Trade,Karan Malhotra,150,8.03,1204.5,0,1204.5,615.76,588.74
+TXN-00933,2024-10-14,2024-10,Q4-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,General Trade,Rohan Gupta,392,1.76,689.92,5,655.42,289.98,365.44
+TXN-00188,2024-10-15,2024-10,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Rohan Gupta,408,10.35,4222.8,5,4011.66,1856.59,2155.07
+TXN-00639,2024-10-16,2024-10,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Karan Malhotra,175,2.25,393.75,0,393.75,164.02,229.73
+TXN-00163,2024-10-17,2024-10,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Rahul Mehta,357,5.84,2084.88,5,1980.64,948.81,1031.83
+TXN-00355,2024-10-17,2024-10,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,E-Commerce,Arjun Rao,182,14.32,2606.24,0,2606.24,1263.82,1342.42
+TXN-00611,2024-10-17,2024-10,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,General Trade,Vikram Nair,236,3.35,790.6,0,790.6,378.71,411.89
+TXN-01000,2024-10-17,2024-10,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Modern Trade,Sneha Patel,120,2.0,240.0,10,216.0,102.24,113.76
+TXN-00991,2024-10-18,2024-10,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,E-Commerce,Sneha Patel,351,1.83,642.33,10,578.1,280.91,297.19
+TXN-00031,2024-10-19,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,E-Commerce,Rohan Gupta,226,6.88,1554.88,10,1399.39,768.7,630.69
+TXN-00830,2024-10-19,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,General Trade,Divya Joshi,103,3.76,387.28,15,329.19,166.64,162.55
+TXN-00371,2024-10-20,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Direct to Consumer,Divya Joshi,331,5.31,1757.61,15,1493.97,690.68,803.29
+TXN-00512,2024-10-20,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,E-Commerce,Anita Desai,359,5.21,1870.39,15,1589.83,650.73,939.1
+TXN-00106,2024-10-22,2024-10,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Direct to Consumer,Rohan Gupta,349,8.98,3134.02,15,2663.92,1369.45,1294.47
+TXN-00195,2024-10-22,2024-10,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Rahul Mehta,131,7.22,945.82,0,945.82,412.16,533.66
+TXN-00340,2024-10-22,2024-10,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Rohan Gupta,81,6.12,495.72,15,421.36,197.05,224.31
+TXN-00829,2024-10-22,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Arjun Rao,404,8.46,3417.84,0,3417.84,1548.17,1869.67
+TXN-00007,2024-10-23,2024-10,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,Modern Trade,Vikram Nair,50,12.44,622.0,15,528.7,219.49,309.21
+TXN-00197,2024-10-25,2024-10,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Anita Desai,229,4.85,1110.65,0,1110.65,484.34,626.31
+TXN-00392,2024-10-25,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,General Trade,Vikram Nair,143,5.03,719.29,15,611.4,280.6,330.8
+TXN-00617,2024-10-26,2024-10,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,Modern Trade,Meena Krishnan,315,4.94,1556.1,0,1556.1,750.4,805.7
+TXN-00671,2024-10-26,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Modern Trade,Priya Sharma,454,10.28,4667.12,5,4433.76,1927.25,2506.51
+TXN-00006,2024-10-27,2024-10,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Modern Trade,Divya Joshi,434,7.27,3155.18,15,2681.9,1218.24,1463.66
+TXN-00968,2024-10-27,2024-10,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Anita Desai,380,1.69,642.2,5,610.09,320.27,289.82
+TXN-00517,2024-10-28,2024-10,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,General Trade,Vikram Nair,239,8.69,2076.91,10,1869.22,768.57,1100.65
+TXN-00131,2024-10-29,2024-10,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Rahul Mehta,177,1.45,256.65,0,256.65,110.39,146.26
+TXN-00983,2024-10-29,2024-10,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,Modern Trade,Divya Joshi,224,4.87,1090.88,10,981.79,495.92,485.87
+TXN-00032,2024-10-30,2024-10,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Vikram Nair,121,2.37,286.77,5,272.43,139.04,133.39
+TXN-00427,2024-10-31,2024-10,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,E-Commerce,Sneha Patel,131,4.1,537.1,5,510.25,247.86,262.39
+TXN-00913,2024-10-31,2024-10,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Modern Trade,Vikram Nair,117,10.26,1200.42,0,1200.42,645.09,555.33
+TXN-00275,2024-11-01,2024-11,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Priya Sharma,247,4.22,1042.34,5,990.22,459.09,531.13
+TXN-00241,2024-11-02,2024-11,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Direct to Consumer,Karan Malhotra,253,2.05,518.65,0,518.65,233.23,285.42
+TXN-00444,2024-11-03,2024-11,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Anita Desai,390,6.2,2418.0,15,2055.3,921.04,1134.26
+TXN-00651,2024-11-03,2024-11,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Priya Sharma,123,2.42,297.66,0,297.66,120.03,177.63
+TXN-00653,2024-11-03,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Sneha Patel,57,1.29,73.53,5,69.85,37.56,32.29
+TXN-00477,2024-11-04,2024-11,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,General Trade,Priya Sharma,225,3.3,742.5,10,668.25,319.45,348.8
+TXN-00961,2024-11-04,2024-11,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Rahul Mehta,404,5.08,2052.32,5,1949.7,903.26,1046.44
+TXN-00443,2024-11-06,2024-11,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Modern Trade,Arjun Rao,169,9.68,1635.92,5,1554.12,821.72,732.4
+TXN-00843,2024-11-06,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,General Trade,Vikram Nair,253,1.56,394.68,5,374.95,205.47,169.48
+TXN-00999,2024-11-06,2024-11,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,E-Commerce,Arjun Rao,160,6.82,1091.2,15,927.52,390.89,536.63
+TXN-00094,2024-11-07,2024-11,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,General Trade,Karan Malhotra,53,4.04,214.12,0,214.12,103.57,110.55
+TXN-00644,2024-11-07,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Rahul Mehta,49,1.89,92.61,5,87.98,36.47,51.51
+TXN-00828,2024-11-07,2024-11,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Direct to Consumer,Rohan Gupta,300,5.73,1719.0,15,1461.15,651.64,809.51
+TXN-00657,2024-11-08,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Direct to Consumer,Priya Sharma,278,1.65,458.7,5,435.76,211.23,224.53
+TXN-00055,2024-11-12,2024-11,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Divya Joshi,351,8.58,3011.58,5,2861.0,1443.61,1417.39
+TXN-00219,2024-11-12,2024-11,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Rahul Mehta,213,8.48,1806.24,10,1625.62,766.97,858.65
+TXN-00722,2024-11-14,2024-11,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Modern Trade,Priya Sharma,487,3.75,1826.25,15,1552.31,759.3,793.01
+TXN-00727,2024-11-14,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Rahul Mehta,323,1.33,429.59,5,408.11,190.4,217.71
+TXN-00896,2024-11-16,2024-11,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Divya Joshi,112,2.3,257.6,0,257.6,127.19,130.41
+TXN-00934,2024-11-16,2024-11,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,E-Commerce,Divya Joshi,233,9.59,2234.47,0,2234.47,1140.76,1093.71
+TXN-00011,2024-11-18,2024-11,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,General Trade,Karan Malhotra,118,8.24,972.32,5,923.7,492.06,431.64
+TXN-00366,2024-11-18,2024-11,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Meena Krishnan,415,5.49,2278.35,0,2278.35,1131.64,1146.71
+TXN-00203,2024-11-19,2024-11,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,General Trade,Priya Sharma,487,9.23,4495.01,5,4270.26,2341.68,1928.58
+TXN-00220,2024-11-20,2024-11,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Modern Trade,Anita Desai,338,4.62,1561.56,5,1483.48,744.73,738.75
+TXN-00249,2024-11-20,2024-11,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,General Trade,Rohan Gupta,255,7.63,1945.65,15,1653.8,840.54,813.26
+TXN-00369,2024-11-20,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Modern Trade,Arjun Rao,77,1.88,144.76,15,123.05,59.71,63.34
+TXN-00932,2024-11-20,2024-11,Q4-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,General Trade,Rahul Mehta,373,1.95,727.35,0,727.35,319.35,408.0
+TXN-00418,2024-11-21,2024-11,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,General Trade,Karan Malhotra,481,1.53,735.93,5,699.13,302.82,396.31
+TXN-00680,2024-11-21,2024-11,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Anita Desai,439,2.26,992.14,10,892.93,361.12,531.81
+TXN-00331,2024-11-22,2024-11,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Direct to Consumer,Rohan Gupta,44,4.75,209.0,15,177.65,90.0,87.65
+TXN-00726,2024-11-22,2024-11,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,E-Commerce,Divya Joshi,148,5.95,880.6,10,792.54,412.6,379.94
+TXN-00494,2024-11-24,2024-11,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Modern Trade,Rohan Gupta,133,4.51,599.83,0,599.83,244.46,355.37
+TXN-00820,2024-11-24,2024-11,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,General Trade,Vikram Nair,190,5.84,1109.6,5,1054.12,529.2,524.92
+TXN-00382,2024-11-25,2024-11,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Direct to Consumer,Vikram Nair,137,4.22,578.14,10,520.33,233.1,287.23
+TXN-00612,2024-11-29,2024-11,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Modern Trade,Arjun Rao,452,9.84,4447.68,15,3780.53,1818.77,1961.76
+TXN-00373,2024-11-30,2024-11,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Divya Joshi,210,1.81,380.1,15,323.09,169.68,153.41
+TXN-00261,2024-12-01,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Direct to Consumer,Divya Joshi,54,7.86,424.44,0,424.44,181.54,242.9
+TXN-00396,2024-12-01,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Modern Trade,Vikram Nair,85,7.3,620.5,0,620.5,338.33,282.17
+TXN-00992,2024-12-01,2024-12,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,General Trade,Rahul Mehta,274,8.49,2326.26,15,1977.32,1021.84,955.48
+TXN-00120,2024-12-02,2024-12,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Rahul Mehta,446,9.2,4103.2,5,3898.04,1781.41,2116.63
+TXN-00485,2024-12-02,2024-12,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,General Trade,Anita Desai,193,4.63,893.59,5,848.91,373.73,475.18
+TXN-00541,2024-12-02,2024-12,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Rohan Gupta,325,10.64,3458.0,10,3112.2,1517.59,1594.61
+TXN-00940,2024-12-02,2024-12,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Rahul Mehta,23,5.08,116.84,10,105.16,43.99,61.17
+TXN-00259,2024-12-04,2024-12,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Rahul Mehta,93,4.06,377.58,10,339.82,149.04,190.78
+TXN-00051,2024-12-05,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Direct to Consumer,Divya Joshi,490,5.67,2778.3,0,2778.3,1185.74,1592.56
+TXN-00412,2024-12-05,2024-12,Q4-2024,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Direct to Consumer,Priya Sharma,479,4.3,2059.7,15,1750.74,734.56,1016.18
+TXN-00419,2024-12-05,2024-12,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Direct to Consumer,Anita Desai,391,1.66,649.06,0,649.06,355.27,293.79
+TXN-00442,2024-12-05,2024-12,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Meena Krishnan,363,5.11,1854.93,10,1669.44,786.78,882.66
+TXN-00529,2024-12-05,2024-12,Q4-2024,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Modern Trade,Rohan Gupta,29,5.45,158.05,0,158.05,67.44,90.61
+TXN-00755,2024-12-05,2024-12,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,Direct to Consumer,Karan Malhotra,225,3.91,879.75,15,747.79,332.16,415.63
+TXN-00710,2024-12-07,2024-12,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Direct to Consumer,Priya Sharma,189,1.9,359.1,10,323.19,139.57,183.62
+TXN-00963,2024-12-07,2024-12,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Priya Sharma,14,10.06,140.84,15,119.71,60.69,59.02
+TXN-00318,2024-12-08,2024-12,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,E-Commerce,Rohan Gupta,230,2.32,533.6,15,453.56,225.72,227.84
+TXN-00800,2024-12-08,2024-12,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Sneha Patel,325,8.43,2739.75,15,2328.79,1089.81,1238.98
+TXN-00073,2024-12-11,2024-12,Q4-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Direct to Consumer,Arjun Rao,399,1.86,742.14,0,742.14,380.57,361.57
+TXN-00767,2024-12-11,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Divya Joshi,356,5.2,1851.2,0,1851.2,827.47,1023.73
+TXN-00502,2024-12-12,2024-12,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,Direct to Consumer,Vikram Nair,65,3.58,232.7,0,232.7,125.42,107.28
+TXN-00874,2024-12-12,2024-12,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Vikram Nair,112,10.83,1212.96,5,1152.31,482.14,670.17
+TXN-00170,2024-12-13,2024-12,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Sneha Patel,123,2.39,293.97,0,293.97,120.96,173.01
+TXN-00785,2024-12-13,2024-12,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Modern Trade,Priya Sharma,38,2.85,108.3,10,97.47,39.61,57.86
+TXN-00114,2024-12-14,2024-12,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Meena Krishnan,488,11.03,5382.64,0,5382.64,2815.56,2567.08
+TXN-00720,2024-12-14,2024-12,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Vikram Nair,482,3.4,1638.8,15,1392.98,666.6,726.38
+TXN-00781,2024-12-14,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Divya Joshi,51,8.96,456.96,15,388.42,200.03,188.39
+TXN-00330,2024-12-17,2024-12,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,E-Commerce,Sneha Patel,243,4.64,1127.52,5,1071.14,506.05,565.09
+TXN-00596,2024-12-17,2024-12,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Karan Malhotra,197,10.14,1997.58,5,1897.7,819.01,1078.69
+TXN-00807,2024-12-17,2024-12,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Anita Desai,122,5.5,671.0,5,637.45,269.97,367.48
+TXN-00827,2024-12-17,2024-12,Q4-2024,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Karan Malhotra,345,2.35,810.75,0,810.75,383.42,427.33
+TXN-00440,2024-12-18,2024-12,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,E-Commerce,Divya Joshi,459,2.04,936.36,5,889.54,443.18,446.36
+TXN-00250,2024-12-19,2024-12,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Meena Krishnan,498,9.73,4845.54,0,4845.54,2149.33,2696.21
+TXN-00821,2024-12-19,2024-12,Q4-2024,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Arjun Rao,241,10.36,2496.76,5,2371.92,1243.92,1128.0
+TXN-00276,2024-12-20,2024-12,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,General Trade,Rohan Gupta,89,2.93,260.77,10,234.69,120.82,113.87
+TXN-00049,2024-12-24,2024-12,Q4-2024,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,General Trade,Rohan Gupta,166,3.71,615.86,15,523.48,227.26,296.22
+TXN-00156,2024-12-24,2024-12,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,General Trade,Rahul Mehta,442,8.47,3743.74,0,3743.74,1925.75,1817.99
+TXN-00664,2024-12-24,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Anita Desai,325,8.94,2905.5,15,2469.67,1151.68,1317.99
+TXN-00171,2024-12-25,2024-12,Q4-2024,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Arjun Rao,382,6.52,2490.64,10,2241.58,1170.68,1070.9
+TXN-00364,2024-12-25,2024-12,Q4-2024,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,General Trade,Rohan Gupta,379,1.44,545.76,10,491.18,207.62,283.56
+TXN-00201,2024-12-26,2024-12,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Priya Sharma,289,3.53,1020.17,10,918.15,391.37,526.78
+TXN-00586,2024-12-27,2024-12,Q4-2024,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Meena Krishnan,274,11.32,3101.68,10,2791.51,1465.06,1326.45
+TXN-00046,2024-12-28,2024-12,Q4-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,General Trade,Rahul Mehta,409,1.55,633.95,15,538.86,248.39,290.47
+TXN-00084,2024-12-29,2024-12,Q4-2024,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Direct to Consumer,Vikram Nair,418,1.75,731.5,0,731.5,389.19,342.31
+TXN-00729,2024-12-30,2024-12,Q4-2024,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Direct to Consumer,Karan Malhotra,169,3.53,596.57,0,596.57,302.42,294.15
+TXN-00837,2024-12-31,2024-12,Q4-2024,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Rohan Gupta,57,2.79,159.03,5,151.08,74.97,76.11
+TXN-00851,2024-12-31,2024-12,Q4-2024,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Direct to Consumer,Anita Desai,93,8.22,764.46,0,764.46,353.89,410.57
+TXN-00145,2025-01-01,2025-01,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Priya Sharma,414,6.42,2657.88,5,2524.99,1132.62,1392.37
+TXN-00407,2025-01-01,2025-01,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Divya Joshi,402,9.55,3839.1,0,3839.1,2096.52,1742.58
+TXN-00532,2025-01-01,2025-01,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Modern Trade,Rahul Mehta,485,1.9,921.5,0,921.5,477.37,444.13
+TXN-00813,2025-01-02,2025-01,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,General Trade,Anita Desai,161,4.0,644.0,0,644.0,259.14,384.86
+TXN-00289,2025-01-03,2025-01,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,E-Commerce,Sneha Patel,272,2.86,777.92,5,739.02,306.54,432.48
+TXN-00198,2025-01-04,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,Modern Trade,Divya Joshi,44,4.0,176.0,5,167.2,79.6,87.6
+TXN-00595,2025-01-05,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Modern Trade,Arjun Rao,323,3.75,1211.25,0,1211.25,584.17,627.08
+TXN-00045,2025-01-08,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,Modern Trade,Sneha Patel,470,3.99,1875.3,15,1594.0,647.14,946.86
+TXN-00615,2025-01-09,2025-01,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,Direct to Consumer,Sneha Patel,221,10.71,2366.91,0,2366.91,950.51,1416.4
+TXN-00886,2025-01-10,2025-01,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Anita Desai,188,4.8,902.4,5,857.28,346.37,510.91
+TXN-00205,2025-01-11,2025-01,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Rahul Mehta,233,8.59,2001.47,10,1801.32,839.34,961.98
+TXN-00385,2025-01-12,2025-01,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Direct to Consumer,Priya Sharma,112,4.81,538.72,15,457.91,204.04,253.87
+TXN-00759,2025-01-13,2025-01,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,General Trade,Rohan Gupta,423,1.24,524.52,15,445.84,225.2,220.64
+TXN-00927,2025-01-13,2025-01,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Vikram Nair,308,9.14,2815.12,5,2674.36,1104.14,1570.22
+TXN-00994,2025-01-13,2025-01,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Rahul Mehta,356,4.2,1495.2,5,1420.44,687.27,733.17
+TXN-00008,2025-01-14,2025-01,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,E-Commerce,Anita Desai,191,11.94,2280.54,0,2280.54,1152.3,1128.24
+TXN-00138,2025-01-14,2025-01,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,Direct to Consumer,Rohan Gupta,353,2.19,773.07,10,695.76,377.03,318.73
+TXN-00212,2025-01-14,2025-01,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,General Trade,Rohan Gupta,200,1.48,296.0,0,296.0,143.88,152.12
+TXN-00290,2025-01-14,2025-01,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Vikram Nair,170,5.65,960.5,5,912.47,483.26,429.21
+TXN-00179,2025-01-16,2025-01,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,General Trade,Arjun Rao,479,4.44,2126.76,5,2020.42,1042.88,977.54
+TXN-00449,2025-01-16,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Modern Trade,Vikram Nair,260,4.47,1162.2,0,1162.2,632.33,529.87
+TXN-00300,2025-01-17,2025-01,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Rahul Mehta,217,1.98,429.66,0,429.66,235.68,193.98
+TXN-00338,2025-01-17,2025-01,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Anita Desai,365,11.06,4036.9,5,3835.05,1774.62,2060.43
+TXN-00805,2025-01-17,2025-01,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,General Trade,Meena Krishnan,79,1.61,127.19,0,127.19,62.93,64.26
+TXN-00328,2025-01-18,2025-01,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,General Trade,Rohan Gupta,210,1.69,354.9,10,319.41,155.96,163.45
+TXN-00422,2025-01-19,2025-01,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Divya Joshi,61,6.51,397.11,15,337.54,178.76,158.78
+TXN-00716,2025-01-19,2025-01,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Modern Trade,Arjun Rao,330,9.45,3118.5,0,3118.5,1514.49,1604.01
+TXN-00454,2025-01-20,2025-01,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Meena Krishnan,446,1.94,865.24,0,865.24,374.42,490.82
+TXN-00292,2025-01-23,2025-01,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,South,E-Commerce,Vikram Nair,301,9.57,2880.57,5,2736.54,1320.64,1415.9
+TXN-00637,2025-01-23,2025-01,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Modern Trade,Divya Joshi,385,2.41,927.85,0,927.85,457.39,470.46
+TXN-00069,2025-01-24,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Modern Trade,Karan Malhotra,254,3.44,873.76,0,873.76,388.64,485.12
+TXN-00095,2025-01-24,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Divya Joshi,240,2.95,708.0,0,708.0,374.55,333.45
+TXN-00431,2025-01-25,2025-01,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Arjun Rao,199,2.2,437.8,0,437.8,192.41,245.39
+TXN-00402,2025-01-26,2025-01,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Direct to Consumer,Priya Sharma,359,4.75,1705.25,0,1705.25,737.02,968.23
+TXN-00764,2025-01-26,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,E-Commerce,Rohan Gupta,357,4.72,1685.04,5,1600.79,804.29,796.5
+TXN-00773,2025-01-26,2025-01,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Priya Sharma,208,10.55,2194.4,0,2194.4,962.76,1231.64
+TXN-00362,2025-01-27,2025-01,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Vikram Nair,55,11.01,605.55,0,605.55,251.59,353.96
+TXN-00818,2025-01-27,2025-01,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Modern Trade,Rahul Mehta,197,7.58,1493.26,0,1493.26,679.19,814.07
+TXN-00736,2025-01-28,2025-01,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Rohan Gupta,43,7.57,325.51,15,276.68,139.48,137.2
+TXN-00779,2025-01-28,2025-01,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,General Trade,Priya Sharma,498,3.83,1907.34,15,1621.24,765.73,855.51
+TXN-00192,2025-01-30,2025-01,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,E-Commerce,Vikram Nair,51,3.89,198.39,0,198.39,88.84,109.55
+TXN-00421,2025-01-30,2025-01,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Priya Sharma,234,10.61,2482.74,0,2482.74,1322.51,1160.23
+TXN-00675,2025-01-31,2025-01,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Sneha Patel,465,2.66,1236.9,0,1236.9,669.93,566.97
+TXN-00314,2025-02-01,2025-02,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,E-Commerce,Meena Krishnan,408,4.61,1880.88,5,1786.84,957.36,829.48
+TXN-00336,2025-02-01,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Karan Malhotra,322,9.35,3010.7,0,3010.7,1361.4,1649.3
+TXN-00912,2025-02-01,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Rohan Gupta,14,6.49,90.86,5,86.32,46.54,39.78
+TXN-00945,2025-02-01,2025-02,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Anita Desai,409,5.1,2085.9,10,1877.31,962.84,914.47
+TXN-00531,2025-02-02,2025-02,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,E-Commerce,Priya Sharma,354,5.05,1787.7,0,1787.7,887.08,900.62
+TXN-00784,2025-02-02,2025-02,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,General Trade,Rohan Gupta,42,3.75,157.5,10,141.75,63.24,78.51
+TXN-00534,2025-02-04,2025-02,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Anita Desai,417,6.51,2714.67,5,2578.94,1145.69,1433.25
+TXN-00766,2025-02-04,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,E-Commerce,Karan Malhotra,246,11.58,2848.68,10,2563.81,1118.51,1445.3
+TXN-00547,2025-02-05,2025-02,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Arjun Rao,124,2.36,292.64,5,278.01,141.78,136.23
+TXN-00732,2025-02-05,2025-02,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Arjun Rao,103,11.51,1185.53,10,1066.98,479.66,587.32
+TXN-00676,2025-02-06,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,General Trade,Arjun Rao,346,6.76,2338.96,10,2105.06,962.71,1142.35
+TXN-00134,2025-02-08,2025-02,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Rahul Mehta,17,5.57,94.69,0,94.69,44.34,50.35
+TXN-00873,2025-02-08,2025-02,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Modern Trade,Anita Desai,215,2.71,582.65,0,582.65,297.86,284.79
+TXN-00712,2025-02-09,2025-02,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,E-Commerce,Arjun Rao,380,6.23,2367.4,0,2367.4,1242.43,1124.97
+TXN-00609,2025-02-10,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,General Trade,Anita Desai,62,7.79,482.98,5,458.83,221.28,237.55
+TXN-00650,2025-02-10,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Rohan Gupta,10,9.25,92.5,0,92.5,45.27,47.23
+TXN-00141,2025-02-11,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Priya Sharma,151,8.01,1209.51,0,1209.51,655.98,553.53
+TXN-00022,2025-02-12,2025-02,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Sneha Patel,353,7.81,2756.93,5,2619.08,1401.06,1218.02
+TXN-00229,2025-02-12,2025-02,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Arjun Rao,76,10.5,798.0,5,758.1,367.11,390.99
+TXN-00660,2025-02-12,2025-02,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Modern Trade,Divya Joshi,144,6.88,990.72,5,941.18,437.81,503.37
+TXN-00944,2025-02-12,2025-02,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Direct to Consumer,Rahul Mehta,140,4.25,595.0,15,505.75,267.96,237.79
+TXN-00399,2025-02-14,2025-02,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,General Trade,Vikram Nair,200,3.92,784.0,10,705.6,291.13,414.47
+TXN-00917,2025-02-14,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Priya Sharma,112,6.89,771.68,0,771.68,375.32,396.36
+TXN-00278,2025-02-15,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Priya Sharma,234,6.07,1420.38,0,1420.38,728.88,691.5
+TXN-00982,2025-02-15,2025-02,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,E-Commerce,Arjun Rao,405,6.91,2798.55,0,2798.55,1284.51,1514.04
+TXN-00027,2025-02-16,2025-02,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Modern Trade,Priya Sharma,382,5.23,1997.86,15,1698.18,707.11,991.07
+TXN-00876,2025-02-18,2025-02,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Karan Malhotra,258,3.86,995.88,0,995.88,513.08,482.8
+TXN-00871,2025-02-21,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,General Trade,Divya Joshi,158,9.29,1467.82,5,1394.43,597.26,797.17
+TXN-00282,2025-02-22,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Meena Krishnan,86,9.26,796.36,0,796.36,408.66,387.7
+TXN-00926,2025-02-22,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Anita Desai,415,7.89,3274.35,0,3274.35,1789.17,1485.18
+TXN-00387,2025-02-23,2025-02,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Priya Sharma,22,1.75,38.5,0,38.5,19.07,19.43
+TXN-00700,2025-02-23,2025-02,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Direct to Consumer,Rohan Gupta,236,9.08,2142.88,5,2035.74,816.3,1219.44
+TXN-00768,2025-02-25,2025-02,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Modern Trade,Priya Sharma,60,5.71,342.6,10,308.34,143.96,164.38
+TXN-00993,2025-02-25,2025-02,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Meena Krishnan,51,3.99,203.49,5,193.32,103.09,90.23
+TXN-00390,2025-02-26,2025-02,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Divya Joshi,368,5.35,1968.8,5,1870.36,1021.56,848.8
+TXN-00507,2025-02-26,2025-02,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,General Trade,Anita Desai,318,9.03,2871.54,10,2584.39,1232.35,1352.04
+TXN-00693,2025-02-27,2025-02,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Meena Krishnan,175,3.06,535.5,0,535.5,250.64,284.86
+TXN-00705,2025-02-27,2025-02,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,E-Commerce,Divya Joshi,278,6.63,1843.14,0,1843.14,906.47,936.67
+TXN-00714,2025-02-27,2025-02,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Rohan Gupta,485,9.68,4694.8,15,3990.58,1908.14,2082.44
+TXN-00979,2025-02-28,2025-02,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Arjun Rao,194,10.86,2106.84,0,2106.84,890.65,1216.19
+TXN-00270,2025-03-01,2025-03,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,General Trade,Divya Joshi,243,4.89,1188.27,5,1128.86,529.84,599.02
+TXN-00643,2025-03-01,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Divya Joshi,430,8.55,3676.5,10,3308.85,1352.48,1956.37
+TXN-00476,2025-03-02,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Modern Trade,Rahul Mehta,237,7.87,1865.19,5,1771.93,775.95,995.98
+TXN-00515,2025-03-02,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Meena Krishnan,499,7.49,3737.51,10,3363.76,1503.26,1860.5
+TXN-00955,2025-03-02,2025-03,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Rahul Mehta,458,10.98,5028.84,0,5028.84,2454.48,2574.36
+TXN-00256,2025-03-03,2025-03,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Modern Trade,Anita Desai,461,10.16,4683.76,0,4683.76,2574.08,2109.68
+TXN-00459,2025-03-04,2025-03,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,E-Commerce,Sneha Patel,217,6.67,1447.39,0,1447.39,705.54,741.85
+TXN-00146,2025-03-07,2025-03,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,Modern Trade,Anita Desai,279,9.05,2524.95,0,2524.95,1190.35,1334.6
+TXN-00316,2025-03-07,2025-03,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Sneha Patel,163,5.18,844.34,0,844.34,383.47,460.87
+TXN-00028,2025-03-08,2025-03,Q1-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Direct to Consumer,Anita Desai,103,9.27,954.81,0,954.81,507.17,447.64
+TXN-00619,2025-03-08,2025-03,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,E-Commerce,Rahul Mehta,330,4.05,1336.5,15,1136.02,590.72,545.3
+TXN-00691,2025-03-08,2025-03,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Anita Desai,160,9.14,1462.4,0,1462.4,736.31,726.09
+TXN-00663,2025-03-09,2025-03,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Modern Trade,Meena Krishnan,197,1.87,368.39,0,368.39,166.39,202.0
+TXN-00907,2025-03-09,2025-03,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Direct to Consumer,Vikram Nair,121,1.64,198.44,0,198.44,85.75,112.69
+TXN-00842,2025-03-10,2025-03,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,E-Commerce,Anita Desai,383,5.46,2091.18,0,2091.18,1098.55,992.63
+TXN-00749,2025-03-11,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Direct to Consumer,Karan Malhotra,329,7.68,2526.72,5,2400.38,1112.86,1287.52
+TXN-00484,2025-03-12,2025-03,Q1-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,E-Commerce,Arjun Rao,388,5.68,2203.84,15,1873.26,962.35,910.91
+TXN-00570,2025-03-12,2025-03,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Anita Desai,343,4.26,1461.18,0,1461.18,771.86,689.32
+TXN-00152,2025-03-13,2025-03,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Modern Trade,Arjun Rao,170,4.91,834.7,0,834.7,453.27,381.43
+TXN-00687,2025-03-13,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,Direct to Consumer,Vikram Nair,217,4.76,1032.92,5,981.27,500.74,480.53
+TXN-00704,2025-03-13,2025-03,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Rahul Mehta,441,1.99,877.59,0,877.59,413.01,464.58
+TXN-00840,2025-03-13,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Direct to Consumer,Anita Desai,199,6.87,1367.13,0,1367.13,605.23,761.9
+TXN-00357,2025-03-14,2025-03,Q1-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Direct to Consumer,Priya Sharma,113,10.32,1166.16,0,1166.16,620.77,545.39
+TXN-00542,2025-03-14,2025-03,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Arjun Rao,96,1.6,153.6,0,153.6,79.54,74.06
+TXN-00887,2025-03-14,2025-03,Q1-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Direct to Consumer,Rahul Mehta,186,7.29,1355.94,5,1288.14,583.13,705.01
+TXN-00980,2025-03-15,2025-03,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Anita Desai,221,2.36,521.56,5,495.48,268.93,226.55
+TXN-00881,2025-03-16,2025-03,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Priya Sharma,460,2.26,1039.6,5,987.62,461.73,525.89
+TXN-00425,2025-03-17,2025-03,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Priya Sharma,492,5.82,2863.44,5,2720.27,1451.16,1269.11
+TXN-00775,2025-03-17,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Divya Joshi,121,4.21,509.41,0,509.41,273.5,235.91
+TXN-00861,2025-03-17,2025-03,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Modern Trade,Rohan Gupta,31,6.38,197.78,0,197.78,102.64,95.14
+TXN-00659,2025-03-18,2025-03,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Modern Trade,Vikram Nair,158,1.6,252.8,0,252.8,106.13,146.67
+TXN-00745,2025-03-18,2025-03,Q1-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Modern Trade,Vikram Nair,369,6.34,2339.46,10,2105.51,942.68,1162.83
+TXN-00221,2025-03-19,2025-03,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,General Trade,Anita Desai,267,1.6,427.2,0,427.2,224.16,203.04
+TXN-00504,2025-03-19,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Modern Trade,Divya Joshi,439,5.36,2353.04,5,2235.39,1156.06,1079.33
+TXN-00052,2025-03-20,2025-03,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Modern Trade,Karan Malhotra,186,10.61,1973.46,0,1973.46,918.56,1054.9
+TXN-00468,2025-03-20,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Karan Malhotra,334,4.13,1379.42,5,1310.45,713.93,596.52
+TXN-00849,2025-03-22,2025-03,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Direct to Consumer,Karan Malhotra,454,1.66,753.64,10,678.28,319.75,358.53
+TXN-00169,2025-03-23,2025-03,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,E-Commerce,Rahul Mehta,442,2.16,954.72,5,906.98,442.91,464.07
+TXN-00307,2025-03-23,2025-03,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Rahul Mehta,128,4.74,606.72,0,606.72,297.76,308.96
+TXN-00415,2025-03-23,2025-03,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,General Trade,Anita Desai,415,7.86,3261.9,5,3098.8,1541.27,1557.53
+TXN-00322,2025-03-24,2025-03,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Vikram Nair,418,2.37,990.66,10,891.59,365.89,525.7
+TXN-00533,2025-03-24,2025-03,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Sneha Patel,205,8.4,1722.0,10,1549.8,627.08,922.72
+TXN-00066,2025-03-26,2025-03,Q1-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Sneha Patel,49,2.32,113.68,0,113.68,50.11,63.57
+TXN-00228,2025-03-26,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Modern Trade,Anita Desai,222,5.3,1176.6,0,1176.6,530.68,645.92
+TXN-00995,2025-03-26,2025-03,Q1-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Meena Krishnan,362,4.03,1458.86,5,1385.92,706.48,679.44
+TXN-00058,2025-03-28,2025-03,Q1-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Rohan Gupta,236,1.72,405.92,5,385.62,181.62,204.0
+TXN-00126,2025-03-28,2025-03,Q1-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Rahul Mehta,493,3.91,1927.63,5,1831.25,814.67,1016.58
+TXN-00445,2025-03-28,2025-03,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Vikram Nair,118,5.46,644.28,5,612.07,312.85,299.22
+TXN-00681,2025-03-29,2025-03,Q1-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Direct to Consumer,Sneha Patel,391,2.37,926.67,10,834.0,450.35,383.65
+TXN-00140,2025-03-30,2025-03,Q1-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,E-Commerce,Vikram Nair,237,11.78,2791.86,15,2373.08,1078.33,1294.75
+TXN-00607,2025-03-31,2025-03,Q1-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Direct to Consumer,Sneha Patel,409,4.34,1775.06,0,1775.06,909.16,865.9
+TXN-00208,2025-04-01,2025-04,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,E-Commerce,Sneha Patel,318,6.97,2216.46,0,2216.46,1115.91,1100.55
+TXN-00115,2025-04-02,2025-04,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Anita Desai,285,9.03,2573.55,0,2573.55,1242.48,1331.07
+TXN-00003,2025-04-04,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,Direct to Consumer,Vikram Nair,311,2.05,637.55,15,541.92,217.3,324.62
+TXN-00273,2025-04-04,2025-04,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,E-Commerce,Meena Krishnan,455,9.84,4477.2,5,4253.34,1941.0,2312.34
+TXN-00435,2025-04-04,2025-04,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,General Trade,Rahul Mehta,98,3.93,385.14,0,385.14,210.22,174.92
+TXN-00065,2025-04-05,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Rohan Gupta,142,2.33,330.86,15,281.23,139.39,141.84
+TXN-00667,2025-04-05,2025-04,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Sneha Patel,251,5.17,1297.67,0,1297.67,663.11,634.56
+TXN-00191,2025-04-06,2025-04,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Vikram Nair,462,10.6,4897.2,0,4897.2,2263.65,2633.55
+TXN-00795,2025-04-06,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Divya Joshi,220,10.99,2417.8,0,2417.8,1188.54,1229.26
+TXN-00151,2025-04-07,2025-04,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,General Trade,Meena Krishnan,464,5.01,2324.64,0,2324.64,1218.37,1106.27
+TXN-00352,2025-04-07,2025-04,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Meena Krishnan,48,1.68,80.64,15,68.54,28.37,40.17
+TXN-00718,2025-04-07,2025-04,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,General Trade,Arjun Rao,434,5.87,2547.58,0,2547.58,1219.69,1327.89
+TXN-00499,2025-04-08,2025-04,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Direct to Consumer,Arjun Rao,68,1.36,92.48,10,83.23,36.06,47.17
+TXN-00513,2025-04-08,2025-04,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Modern Trade,Arjun Rao,62,9.06,561.72,10,505.55,258.3,247.25
+TXN-00621,2025-04-08,2025-04,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Karan Malhotra,149,9.66,1439.34,5,1367.37,585.46,781.91
+TXN-00741,2025-04-08,2025-04,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Anita Desai,282,6.11,1723.02,5,1636.87,796.65,840.22
+TXN-00160,2025-04-09,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,Direct to Consumer,Meena Krishnan,184,2.02,371.68,0,371.68,188.9,182.78
+TXN-00997,2025-04-11,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Vikram Nair,252,2.07,521.64,0,521.64,282.53,239.11
+TXN-00063,2025-04-12,2025-04,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,General Trade,Rahul Mehta,78,3.75,292.5,10,263.25,126.27,136.98
+TXN-00239,2025-04-12,2025-04,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Direct to Consumer,Divya Joshi,86,4.23,363.78,5,345.59,145.48,200.11
+TXN-00689,2025-04-12,2025-04,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Rohan Gupta,433,4.83,2091.39,0,2091.39,999.28,1092.11
+TXN-00788,2025-04-12,2025-04,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Rahul Mehta,322,10.37,3339.14,5,3172.18,1299.3,1872.88
+TXN-00503,2025-04-13,2025-04,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Modern Trade,Rohan Gupta,347,6.58,2283.26,5,2169.1,911.45,1257.65
+TXN-00167,2025-04-15,2025-04,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Direct to Consumer,Priya Sharma,481,4.2,2020.2,0,2020.2,982.55,1037.65
+TXN-00594,2025-04-16,2025-04,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Divya Joshi,171,10.97,1875.87,0,1875.87,940.03,935.84
+TXN-00857,2025-04-16,2025-04,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Modern Trade,Meena Krishnan,479,3.77,1805.83,15,1534.96,644.2,890.76
+TXN-00125,2025-04-17,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,General Trade,Vikram Nair,336,10.01,3363.36,0,3363.36,1681.77,1681.59
+TXN-00401,2025-04-17,2025-04,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Modern Trade,Priya Sharma,35,6.07,212.45,5,201.83,93.85,107.98
+TXN-00398,2025-04-18,2025-04,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Rahul Mehta,62,3.51,217.62,0,217.62,91.01,126.61
+TXN-00899,2025-04-18,2025-04,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,General Trade,Arjun Rao,85,3.66,311.1,10,279.99,140.78,139.21
+TXN-00395,2025-04-19,2025-04,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Direct to Consumer,Sneha Patel,145,1.86,269.7,0,269.7,114.26,155.44
+TXN-00953,2025-04-20,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Direct to Consumer,Rahul Mehta,348,2.7,939.6,15,798.66,349.82,448.84
+TXN-00384,2025-04-21,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Direct to Consumer,Rahul Mehta,453,2.37,1073.61,15,912.57,407.56,505.01
+TXN-00670,2025-04-21,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,E-Commerce,Priya Sharma,345,11.16,3850.2,0,3850.2,1764.53,2085.67
+TXN-00709,2025-04-21,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,Modern Trade,Priya Sharma,330,12.37,4082.1,10,3673.89,1936.91,1736.98
+TXN-00519,2025-04-22,2025-04,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Arjun Rao,373,1.89,704.97,0,704.97,298.24,406.73
+TXN-00232,2025-04-23,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Direct to Consumer,Divya Joshi,265,9.84,2607.6,5,2477.22,999.5,1477.72
+TXN-00616,2025-04-25,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Sneha Patel,283,2.37,670.71,5,637.17,345.37,291.8
+TXN-00104,2025-04-26,2025-04,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Anita Desai,275,5.52,1518.0,0,1518.0,648.53,869.47
+TXN-00105,2025-04-26,2025-04,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Direct to Consumer,Rahul Mehta,188,1.87,351.56,0,351.56,175.96,175.6
+TXN-00199,2025-04-26,2025-04,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Meena Krishnan,32,2.2,70.4,0,70.4,30.84,39.56
+TXN-00811,2025-04-26,2025-04,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Priya Sharma,385,6.38,2456.3,0,2456.3,1139.37,1316.93
+TXN-00430,2025-04-27,2025-04,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,E-Commerce,Meena Krishnan,260,6.0,1560.0,0,1560.0,645.33,914.67
+TXN-00575,2025-04-27,2025-04,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Modern Trade,Anita Desai,484,8.05,3896.2,0,3896.2,1595.93,2300.27
+TXN-00272,2025-04-28,2025-04,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,Modern Trade,Rahul Mehta,26,2.23,57.98,0,57.98,29.88,28.1
+TXN-00713,2025-04-30,2025-04,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,E-Commerce,Rohan Gupta,418,11.89,4970.02,0,4970.02,2346.96,2623.06
+TXN-00919,2025-05-04,2025-05,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,E-Commerce,Rohan Gupta,457,2.3,1051.1,0,1051.1,447.79,603.31
+TXN-00324,2025-05-05,2025-05,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Direct to Consumer,Karan Malhotra,308,4.0,1232.0,5,1170.4,630.29,540.11
+TXN-00404,2025-05-05,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Divya Joshi,41,9.91,406.31,5,385.99,162.34,223.65
+TXN-00030,2025-05-07,2025-05,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,Direct to Consumer,Rohan Gupta,119,9.82,1168.58,0,1168.58,496.29,672.29
+TXN-00960,2025-05-07,2025-05,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Vikram Nair,342,4.0,1368.0,0,1368.0,636.62,731.38
+TXN-00557,2025-05-08,2025-05,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,E-Commerce,Rahul Mehta,355,14.22,5048.1,0,5048.1,2466.6,2581.5
+TXN-00565,2025-05-08,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Rahul Mehta,347,2.09,725.23,5,688.97,331.32,357.65
+TXN-00752,2025-05-08,2025-05,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Karan Malhotra,363,4.4,1597.2,10,1437.48,732.67,704.81
+TXN-00227,2025-05-09,2025-05,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,E-Commerce,Sneha Patel,135,7.3,985.5,10,886.95,408.81,478.14
+TXN-00329,2025-05-09,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,E-Commerce,Priya Sharma,63,2.44,153.72,0,153.72,64.16,89.56
+TXN-00488,2025-05-09,2025-05,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,Direct to Consumer,Karan Malhotra,420,9.07,3809.4,5,3618.93,1545.97,2072.96
+TXN-00489,2025-05-09,2025-05,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Modern Trade,Anita Desai,481,4.22,2029.82,5,1928.33,898.8,1029.53
+TXN-00668,2025-05-09,2025-05,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Divya Joshi,328,11.54,3785.12,0,3785.12,1908.69,1876.43
+TXN-00672,2025-05-11,2025-05,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Modern Trade,Arjun Rao,453,3.66,1657.98,0,1657.98,709.55,948.43
+TXN-00757,2025-05-11,2025-05,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Sneha Patel,52,5.23,271.96,0,271.96,143.52,128.44
+TXN-00804,2025-05-11,2025-05,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,Direct to Consumer,Karan Malhotra,37,11.4,421.8,0,421.8,182.4,239.4
+TXN-00855,2025-05-11,2025-05,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,E-Commerce,Arjun Rao,220,8.63,1898.6,0,1898.6,788.61,1109.99
+TXN-00962,2025-05-11,2025-05,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,General Trade,Rohan Gupta,251,4.23,1061.73,5,1008.64,492.0,516.64
+TXN-00748,2025-05-13,2025-05,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Modern Trade,Anita Desai,346,5.66,1958.36,0,1958.36,808.21,1150.15
+TXN-00958,2025-05-13,2025-05,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Karan Malhotra,165,5.35,882.75,5,838.61,380.82,457.79
+TXN-00353,2025-05-14,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,E-Commerce,Rohan Gupta,177,2.78,492.06,15,418.25,215.87,202.38
+TXN-00604,2025-05-14,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,E-Commerce,Divya Joshi,406,11.02,4474.12,0,4474.12,2045.39,2428.73
+TXN-00964,2025-05-14,2025-05,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,E-Commerce,Priya Sharma,214,5.24,1121.36,5,1065.29,541.9,523.39
+TXN-00294,2025-05-15,2025-05,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,General Trade,Divya Joshi,104,1.6,166.4,5,158.08,86.71,71.37
+TXN-00080,2025-05-16,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Meena Krishnan,64,2.52,161.28,0,161.28,79.89,81.39
+TXN-00411,2025-05-17,2025-05,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,E-Commerce,Anita Desai,29,4.53,131.37,0,131.37,64.4,66.97
+TXN-00839,2025-05-17,2025-05,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Vikram Nair,172,7.35,1264.2,5,1200.99,650.35,550.64
+TXN-00946,2025-05-17,2025-05,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Sneha Patel,420,6.84,2872.8,15,2441.88,1314.35,1127.53
+TXN-00389,2025-05-18,2025-05,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,General Trade,Meena Krishnan,40,8.06,322.4,0,322.4,163.38,159.02
+TXN-00774,2025-05-18,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Rahul Mehta,485,7.93,3846.05,5,3653.75,1559.3,2094.45
+TXN-00937,2025-05-19,2025-05,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Direct to Consumer,Rohan Gupta,67,3.72,249.24,15,211.85,89.44,122.41
+TXN-00870,2025-05-20,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,Modern Trade,Arjun Rao,69,2.63,181.47,5,172.4,84.49,87.91
+TXN-00966,2025-05-21,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Rahul Mehta,328,10.79,3539.12,0,3539.12,1653.65,1885.47
+TXN-00812,2025-05-22,2025-05,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Modern Trade,Rohan Gupta,133,4.63,615.79,15,523.42,210.34,313.08
+TXN-00376,2025-05-23,2025-05,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Anita Desai,497,4.09,2032.73,5,1931.09,999.24,931.85
+TXN-00877,2025-05-24,2025-05,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,E-Commerce,Rohan Gupta,128,7.24,926.72,0,926.72,374.82,551.9
+TXN-00699,2025-05-25,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,Direct to Consumer,Rohan Gupta,288,9.76,2810.88,5,2670.34,1421.7,1248.64
+TXN-00302,2025-05-26,2025-05,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,General Trade,Rahul Mehta,442,6.2,2740.4,15,2329.34,1047.48,1281.86
+TXN-00692,2025-05-27,2025-05,Q2-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Direct to Consumer,Rahul Mehta,67,9.51,637.17,5,605.31,327.28,278.03
+TXN-00298,2025-05-29,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,E-Commerce,Priya Sharma,426,2.81,1197.06,5,1137.21,592.4,544.81
+TXN-00383,2025-05-29,2025-05,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Rahul Mehta,354,6.09,2155.86,0,2155.86,934.52,1221.34
+TXN-00147,2025-05-30,2025-05,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Modern Trade,Rohan Gupta,123,1.95,239.85,0,239.85,122.1,117.75
+TXN-00471,2025-05-30,2025-05,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Modern Trade,Meena Krishnan,311,8.78,2730.58,0,2730.58,1429.67,1300.91
+TXN-00509,2025-05-30,2025-05,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,General Trade,Anita Desai,287,6.07,1742.09,0,1742.09,882.46,859.63
+TXN-00236,2025-05-31,2025-05,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Meena Krishnan,240,2.6,624.0,0,624.0,326.85,297.15
+TXN-00268,2025-06-01,2025-06,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,North,Modern Trade,Divya Joshi,113,1.91,215.83,0,215.83,91.66,124.17
+TXN-00175,2025-06-03,2025-06,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Arjun Rao,47,8.33,391.51,5,371.93,150.87,221.06
+TXN-00183,2025-06-04,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Modern Trade,Meena Krishnan,195,1.87,364.65,0,364.65,155.72,208.93
+TXN-00217,2025-06-04,2025-06,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,General Trade,Arjun Rao,124,6.75,837.0,0,837.0,434.24,402.76
+TXN-00112,2025-06-05,2025-06,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Sneha Patel,371,6.14,2277.94,15,1936.25,914.64,1021.61
+TXN-00238,2025-06-05,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,General Trade,Karan Malhotra,215,1.54,331.1,0,331.1,134.37,196.73
+TXN-00548,2025-06-06,2025-06,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Divya Joshi,56,8.1,453.6,5,430.92,173.05,257.87
+TXN-00379,2025-06-07,2025-06,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Rohan Gupta,194,6.95,1348.3,15,1146.05,555.87,590.18
+TXN-00482,2025-06-07,2025-06,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Rahul Mehta,48,6.96,334.08,0,334.08,178.97,155.11
+TXN-00514,2025-06-07,2025-06,Q2-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Vikram Nair,411,9.24,3797.64,10,3417.88,1514.62,1903.26
+TXN-00592,2025-06-07,2025-06,Q2-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Anita Desai,153,1.64,250.92,15,213.28,103.76,109.52
+TXN-00059,2025-06-11,2025-06,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Sneha Patel,349,4.21,1469.29,0,1469.29,608.3,860.99
+TXN-00525,2025-06-13,2025-06,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,E-Commerce,Priya Sharma,430,4.72,2029.6,5,1928.12,1003.44,924.68
+TXN-00551,2025-06-14,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Modern Trade,Vikram Nair,474,2.02,957.48,5,909.61,427.93,481.68
+TXN-00491,2025-06-15,2025-06,Q2-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Arjun Rao,277,3.14,869.78,5,826.29,342.32,483.97
+TXN-00869,2025-06-16,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,Direct to Consumer,Rahul Mehta,79,2.08,164.32,0,164.32,83.1,81.22
+TXN-00986,2025-06-16,2025-06,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Anita Desai,286,2.27,649.22,0,649.22,309.52,339.7
+TXN-00521,2025-06-17,2025-06,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,General Trade,Anita Desai,44,5.05,222.2,0,222.2,102.74,119.46
+TXN-00627,2025-06-17,2025-06,Q2-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,Direct to Consumer,Rahul Mehta,350,4.71,1648.5,5,1566.07,717.84,848.23
+TXN-00081,2025-06-18,2025-06,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Anita Desai,343,4.09,1402.87,15,1192.44,641.46,550.98
+TXN-00500,2025-06-18,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,E-Commerce,Divya Joshi,201,2.41,484.41,0,484.41,258.93,225.48
+TXN-00511,2025-06-19,2025-06,Q2-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Priya Sharma,64,2.21,141.44,0,141.44,57.7,83.74
+TXN-00258,2025-06-20,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Divya Joshi,262,2.06,539.72,0,539.72,284.79,254.93
+TXN-00641,2025-06-22,2025-06,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Direct to Consumer,Rohan Gupta,329,6.13,2016.77,0,2016.77,821.56,1195.21
+TXN-00950,2025-06-23,2025-06,Q2-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,General Trade,Rohan Gupta,332,3.64,1208.48,0,1208.48,536.09,672.39
+TXN-00965,2025-06-24,2025-06,Q2-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Priya Sharma,19,6.75,128.25,0,128.25,61.94,66.31
+TXN-00852,2025-06-26,2025-06,Q2-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,E-Commerce,Sneha Patel,337,2.58,869.46,5,825.99,354.41,471.58
+TXN-00636,2025-06-27,2025-06,Q2-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,General Trade,Rahul Mehta,89,6.61,588.29,15,500.05,219.77,280.28
+TXN-00247,2025-06-29,2025-06,Q2-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,General Trade,Rohan Gupta,185,3.32,614.2,10,552.78,285.12,267.66
+TXN-00735,2025-06-29,2025-06,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Modern Trade,Sneha Patel,246,6.22,1530.12,5,1453.61,633.46,820.15
+TXN-00408,2025-06-30,2025-06,Q2-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,General Trade,Sneha Patel,427,4.58,1955.66,10,1760.09,718.8,1041.29
+TXN-00475,2025-07-01,2025-07,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Sneha Patel,329,6.95,2286.55,0,2286.55,1141.66,1144.89
+TXN-00893,2025-07-02,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,Direct to Consumer,Rahul Mehta,119,3.42,406.98,0,406.98,180.94,226.04
+TXN-00372,2025-07-04,2025-07,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Divya Joshi,325,5.06,1644.5,0,1644.5,734.25,910.25
+TXN-00593,2025-07-07,2025-07,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Direct to Consumer,Rohan Gupta,26,4.25,110.5,5,104.97,55.54,49.43
+TXN-00068,2025-07-09,2025-07,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Direct to Consumer,Arjun Rao,248,6.5,1612.0,0,1612.0,846.19,765.81
+TXN-00039,2025-07-10,2025-07,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,General Trade,Rohan Gupta,370,1.67,617.9,15,525.21,261.61,263.6
+TXN-00568,2025-07-10,2025-07,Q3-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,North,E-Commerce,Karan Malhotra,219,12.75,2792.25,0,2792.25,1413.92,1378.33
+TXN-00044,2025-07-12,2025-07,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,Modern Trade,Anita Desai,28,5.88,164.64,5,156.41,75.53,80.88
+TXN-00649,2025-07-12,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,General Trade,Karan Malhotra,119,3.27,389.13,5,369.67,199.22,170.45
+TXN-00746,2025-07-12,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,Direct to Consumer,Meena Krishnan,118,4.48,528.64,5,502.21,211.36,290.85
+TXN-00751,2025-07-13,2025-07,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,E-Commerce,Meena Krishnan,305,4.45,1357.25,0,1357.25,658.57,698.68
+TXN-00536,2025-07-14,2025-07,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Direct to Consumer,Divya Joshi,494,4.08,2015.52,0,2015.52,1032.44,983.08
+TXN-00057,2025-07-15,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Meena Krishnan,436,1.6,697.6,0,697.6,301.03,396.57
+TXN-00021,2025-07-16,2025-07,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Rohan Gupta,94,1.75,164.5,15,139.82,68.65,71.17
+TXN-00628,2025-07-16,2025-07,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,General Trade,Priya Sharma,276,7.46,2058.96,5,1956.01,969.75,986.26
+TXN-00647,2025-07-17,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,General Trade,Anita Desai,215,3.47,746.05,10,671.44,284.51,386.93
+TXN-00648,2025-07-17,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,E-Commerce,Arjun Rao,176,2.33,410.08,5,389.58,200.49,189.09
+TXN-00696,2025-07-17,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Meena Krishnan,204,2.71,552.84,0,552.84,296.79,256.05
+TXN-00911,2025-07-19,2025-07,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,General Trade,Sneha Patel,206,3.69,760.14,10,684.13,310.89,373.24
+TXN-00087,2025-07-20,2025-07,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,E-Commerce,Rohan Gupta,281,9.08,2551.48,10,2296.33,1108.11,1188.22
+TXN-00291,2025-07-20,2025-07,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Sneha Patel,488,4.19,2044.72,10,1840.25,851.37,988.88
+TXN-00808,2025-07-20,2025-07,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Karan Malhotra,447,4.97,2221.59,5,2110.51,1115.5,995.01
+TXN-00218,2025-07-21,2025-07,Q3-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,Modern Trade,Arjun Rao,303,12.94,3920.82,15,3332.7,1824.49,1508.21
+TXN-00313,2025-07-21,2025-07,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Modern Trade,Arjun Rao,57,6.64,378.48,15,321.71,144.34,177.37
+TXN-00281,2025-07-23,2025-07,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,General Trade,Meena Krishnan,263,1.62,426.06,0,426.06,230.6,195.46
+TXN-00929,2025-07-24,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Rahul Mehta,40,1.73,69.2,0,69.2,32.57,36.63
+TXN-00971,2025-07-24,2025-07,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Vikram Nair,34,4.17,141.78,0,141.78,75.45,66.33
+TXN-00921,2025-07-25,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,Modern Trade,Priya Sharma,341,1.66,566.06,0,566.06,303.42,262.64
+TXN-00166,2025-07-26,2025-07,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Divya Joshi,436,2.88,1255.68,0,1255.68,515.85,739.83
+TXN-00572,2025-07-26,2025-07,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,General Trade,Arjun Rao,294,2.26,664.44,0,664.44,323.35,341.09
+TXN-00661,2025-07-26,2025-07,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,General Trade,Rohan Gupta,111,3.25,360.75,10,324.68,157.7,166.98
+TXN-00846,2025-07-26,2025-07,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,E-Commerce,Rohan Gupta,388,9.19,3565.72,0,3565.72,1849.48,1716.24
+TXN-00856,2025-07-26,2025-07,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Vikram Nair,324,6.44,2086.56,5,1982.23,1044.46,937.77
+TXN-00602,2025-07-27,2025-07,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,E-Commerce,Arjun Rao,295,2.46,725.7,0,725.7,327.74,397.96
+TXN-00902,2025-07-27,2025-07,Q3-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Rohan Gupta,233,10.39,2420.87,0,2420.87,1041.7,1379.17
+TXN-00154,2025-07-29,2025-07,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Karan Malhotra,297,7.94,2358.18,0,2358.18,1088.59,1269.59
+TXN-00832,2025-07-29,2025-07,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,General Trade,Vikram Nair,372,7.39,2749.08,0,2749.08,1502.93,1246.15
+TXN-00884,2025-07-29,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,West,Direct to Consumer,Rohan Gupta,447,1.83,818.01,0,818.01,375.23,442.78
+TXN-00584,2025-07-30,2025-07,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Direct to Consumer,Meena Krishnan,257,1.7,436.9,15,371.36,167.46,203.9
+TXN-00948,2025-07-30,2025-07,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Sneha Patel,317,5.25,1664.25,15,1414.61,655.5,759.11
+TXN-00173,2025-07-31,2025-07,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Rohan Gupta,399,5.23,2086.77,10,1878.09,1011.58,866.51
+TXN-00304,2025-07-31,2025-07,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,E-Commerce,Divya Joshi,346,5.9,2041.4,15,1735.19,775.93,959.26
+TXN-00432,2025-07-31,2025-07,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Sneha Patel,41,3.83,157.03,10,141.33,70.68,70.65
+TXN-00635,2025-08-03,2025-08,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Vikram Nair,105,7.78,816.9,0,816.9,416.5,400.4
+TXN-00260,2025-08-04,2025-08,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,North,E-Commerce,Sneha Patel,355,11.0,3905.0,0,3905.0,1919.87,1985.13
+TXN-00410,2025-08-04,2025-08,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,Modern Trade,Arjun Rao,298,4.42,1317.16,0,1317.16,692.17,624.99
+TXN-00730,2025-08-04,2025-08,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,Modern Trade,Rohan Gupta,77,6.26,482.02,15,409.72,220.41,189.31
+TXN-00083,2025-08-06,2025-08,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,General Trade,Rohan Gupta,322,9.0,2898.0,0,2898.0,1171.68,1726.32
+TXN-00742,2025-08-06,2025-08,Q3-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,E-Commerce,Sneha Patel,416,11.75,4888.0,0,4888.0,2628.65,2259.35
+TXN-00865,2025-08-06,2025-08,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,General Trade,Divya Joshi,44,2.95,129.8,5,123.31,63.44,59.87
+TXN-00510,2025-08-07,2025-08,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Direct to Consumer,Karan Malhotra,492,1.73,851.16,5,808.6,405.22,403.38
+TXN-00814,2025-08-07,2025-08,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,General Trade,Rohan Gupta,392,6.0,2352.0,5,2234.4,1049.19,1185.21
+TXN-00226,2025-08-08,2025-08,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,E-Commerce,Vikram Nair,223,7.17,1598.91,0,1598.91,759.01,839.9
+TXN-00688,2025-08-08,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Karan Malhotra,314,3.87,1215.18,10,1093.66,581.14,512.52
+TXN-00244,2025-08-09,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,General Trade,Priya Sharma,495,3.05,1509.75,0,1509.75,608.19,901.56
+TXN-00891,2025-08-09,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Direct to Consumer,Arjun Rao,60,3.41,204.6,0,204.6,103.04,101.56
+TXN-00092,2025-08-10,2025-08,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Priya Sharma,155,8.67,1343.85,5,1276.66,575.91,700.75
+TXN-00380,2025-08-10,2025-08,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,E-Commerce,Rahul Mehta,355,2.19,777.45,0,777.45,397.37,380.08
+TXN-00835,2025-08-10,2025-08,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Direct to Consumer,Sneha Patel,351,1.91,670.41,5,636.89,324.36,312.53
+TXN-00582,2025-08-11,2025-08,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,Direct to Consumer,Meena Krishnan,12,1.46,17.52,5,16.64,7.92,8.72
+TXN-00707,2025-08-11,2025-08,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,E-Commerce,Divya Joshi,329,1.94,638.26,0,638.26,314.12,324.14
+TXN-00734,2025-08-11,2025-08,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Karan Malhotra,75,10.25,768.75,5,730.31,381.68,348.63
+TXN-00279,2025-08-12,2025-08,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,South,E-Commerce,Vikram Nair,173,5.39,932.47,15,792.6,397.0,395.6
+TXN-00320,2025-08-12,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,E-Commerce,Rohan Gupta,410,4.48,1836.8,5,1744.96,771.35,973.61
+TXN-00850,2025-08-12,2025-08,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,E-Commerce,Divya Joshi,18,5.41,97.38,0,97.38,47.45,49.93
+TXN-00655,2025-08-13,2025-08,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Priya Sharma,205,5.6,1148.0,0,1148.0,617.95,530.05
+TXN-00715,2025-08-14,2025-08,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,Modern Trade,Vikram Nair,360,1.78,640.8,15,544.68,246.76,297.92
+TXN-00703,2025-08-15,2025-08,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,General Trade,Rohan Gupta,194,6.93,1344.42,0,1344.42,692.75,651.67
+TXN-00864,2025-08-16,2025-08,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,General Trade,Sneha Patel,188,4.39,825.32,15,701.52,333.29,368.23
+TXN-00990,2025-08-18,2025-08,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,E-Commerce,Vikram Nair,299,6.89,2060.11,10,1854.1,926.73,927.37
+TXN-00581,2025-08-19,2025-08,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Divya Joshi,188,5.76,1082.88,15,920.45,406.36,514.09
+TXN-00243,2025-08-20,2025-08,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Priya Sharma,255,1.17,298.35,10,268.52,136.46,132.06
+TXN-00269,2025-08-20,2025-08,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Modern Trade,Vikram Nair,260,2.78,722.8,5,686.66,320.55,366.11
+TXN-00033,2025-08-21,2025-08,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,East,Modern Trade,Priya Sharma,254,5.44,1381.76,15,1174.5,563.37,611.13
+TXN-00580,2025-08-23,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,Direct to Consumer,Meena Krishnan,112,3.87,433.44,10,390.1,197.21,192.89
+TXN-00439,2025-08-25,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,General Trade,Karan Malhotra,308,3.07,945.56,0,945.56,509.41,436.15
+TXN-00908,2025-08-26,2025-08,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Sneha Patel,38,10.32,392.16,0,392.16,198.02,194.14
+TXN-00386,2025-08-28,2025-08,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,Direct to Consumer,Arjun Rao,262,1.57,411.34,15,349.64,150.11,199.53
+TXN-00078,2025-08-29,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,General Trade,Rahul Mehta,363,3.9,1415.7,0,1415.7,587.92,827.78
+TXN-00334,2025-08-29,2025-08,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,General Trade,Rohan Gupta,229,3.6,824.4,10,741.96,320.69,421.27
+TXN-00738,2025-08-29,2025-08,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Direct to Consumer,Rahul Mehta,315,3.58,1127.7,5,1071.32,444.22,627.1
+TXN-00875,2025-08-30,2025-08,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,E-Commerce,Karan Malhotra,149,5.38,801.62,15,681.38,338.36,343.02
+TXN-00035,2025-08-31,2025-08,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,General Trade,Karan Malhotra,30,4.26,127.8,5,121.41,60.54,60.87
+TXN-00014,2025-09-02,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,General Trade,Meena Krishnan,42,4.39,184.38,5,175.16,96.24,78.92
+TXN-00472,2025-09-02,2025-09,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,East,Direct to Consumer,Divya Joshi,278,8.89,2471.42,10,2224.28,1221.84,1002.44
+TXN-00150,2025-09-03,2025-09,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,E-Commerce,Meena Krishnan,281,10.03,2818.43,5,2677.51,1314.16,1363.35
+TXN-00242,2025-09-03,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,E-Commerce,Priya Sharma,252,7.62,1920.24,10,1728.22,894.24,833.98
+TXN-00164,2025-09-05,2025-09,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,General Trade,Meena Krishnan,38,7.72,293.36,0,293.36,158.94,134.42
+TXN-00578,2025-09-05,2025-09,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,General Trade,Priya Sharma,271,1.99,539.29,0,539.29,265.48,273.81
+TXN-00155,2025-09-06,2025-09,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Sneha Patel,169,8.57,1448.33,5,1375.91,655.09,720.82
+TXN-00458,2025-09-06,2025-09,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Priya Sharma,216,6.42,1386.72,10,1248.05,525.42,722.63
+TXN-00207,2025-09-08,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Modern Trade,Meena Krishnan,431,6.95,2995.45,0,2995.45,1342.51,1652.94
+TXN-00319,2025-09-09,2025-09,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,E-Commerce,Arjun Rao,495,1.82,900.9,5,855.85,382.67,473.18
+TXN-00005,2025-09-10,2025-09,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,E-Commerce,Arjun Rao,145,4.96,719.2,10,647.28,303.52,343.76
+TXN-00497,2025-09-10,2025-09,Q3-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Modern Trade,Rahul Mehta,326,4.49,1463.74,5,1390.55,673.51,717.04
+TXN-00974,2025-09-10,2025-09,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,General Trade,Divya Joshi,352,1.91,672.32,0,672.32,362.38,309.94
+TXN-00162,2025-09-13,2025-09,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Direct to Consumer,Rohan Gupta,236,10.24,2416.64,0,2416.64,1240.32,1176.32
+TXN-00753,2025-09-16,2025-09,Q3-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,Modern Trade,Divya Joshi,55,11.03,606.65,10,545.99,279.14,266.85
+TXN-00765,2025-09-17,2025-09,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,E-Commerce,Meena Krishnan,480,6.28,3014.4,0,3014.4,1357.22,1657.18
+TXN-00975,2025-09-17,2025-09,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Modern Trade,Rahul Mehta,322,5.96,1919.12,0,1919.12,1004.74,914.38
+TXN-00796,2025-09-18,2025-09,Q3-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,General Trade,Rohan Gupta,496,3.49,1731.04,15,1471.38,761.27,710.11
+TXN-00064,2025-09-19,2025-09,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,E-Commerce,Rohan Gupta,427,2.41,1029.07,5,977.62,453.63,523.99
+TXN-00574,2025-09-20,2025-09,Q3-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,E-Commerce,Divya Joshi,366,3.21,1174.86,0,1174.86,498.27,676.59
+TXN-00176,2025-09-21,2025-09,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Modern Trade,Rahul Mehta,314,2.18,684.52,5,650.29,316.72,333.57
+TXN-00209,2025-09-21,2025-09,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,Modern Trade,Arjun Rao,232,2.43,563.76,15,479.2,259.82,219.38
+TXN-00265,2025-09-21,2025-09,Q3-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,E-Commerce,Arjun Rao,123,5.08,624.84,0,624.84,294.75,330.09
+TXN-00337,2025-09-21,2025-09,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Sneha Patel,312,3.26,1017.12,0,1017.12,454.63,562.49
+TXN-00898,2025-09-21,2025-09,Q3-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,West,E-Commerce,Divya Joshi,446,14.63,6524.98,5,6198.73,3348.53,2850.2
+TXN-00789,2025-09-22,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Direct to Consumer,Karan Malhotra,122,5.74,700.28,0,700.28,324.88,375.4
+TXN-00240,2025-09-23,2025-09,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Meena Krishnan,388,1.47,570.36,5,541.84,244.08,297.76
+TXN-00185,2025-09-24,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Modern Trade,Arjun Rao,77,5.43,418.11,0,418.11,177.42,240.69
+TXN-00787,2025-09-25,2025-09,Q3-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,Modern Trade,Rohan Gupta,33,10.49,346.17,10,311.55,130.72,180.83
+TXN-00666,2025-09-27,2025-09,Q3-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,North,Modern Trade,Vikram Nair,484,6.35,3073.4,15,2612.39,1366.33,1246.06
+TXN-00817,2025-09-27,2025-09,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Rahul Mehta,460,1.2,552.0,0,552.0,263.42,288.58
+TXN-00822,2025-09-27,2025-09,Q3-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,E-Commerce,Rohan Gupta,198,4.87,964.26,10,867.83,452.42,415.41
+TXN-00157,2025-09-28,2025-09,Q3-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,Direct to Consumer,Divya Joshi,324,1.52,492.48,5,467.86,188.99,278.87
+TXN-00969,2025-09-28,2025-09,Q3-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,Direct to Consumer,Anita Desai,116,6.79,787.64,10,708.88,292.72,416.16
+TXN-00879,2025-09-30,2025-09,Q3-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,E-Commerce,Karan Malhotra,59,2.19,129.21,10,116.29,59.63,56.66
+TXN-00099,2025-10-02,2025-10,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Sneha Patel,311,4.23,1315.53,0,1315.53,610.1,705.43
+TXN-00359,2025-10-02,2025-10,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Modern Trade,Meena Krishnan,166,7.04,1168.64,15,993.34,432.22,561.12
+TXN-00470,2025-10-03,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,Modern Trade,Priya Sharma,385,2.24,862.4,10,776.16,412.57,363.59
+TXN-00545,2025-10-03,2025-10,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,General Trade,Sneha Patel,49,6.46,316.54,0,316.54,166.96,149.58
+TXN-00798,2025-10-03,2025-10,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Rohan Gupta,347,1.38,478.86,0,478.86,205.46,273.4
+TXN-00815,2025-10-03,2025-10,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,West,General Trade,Arjun Rao,247,8.6,2124.2,0,2124.2,1123.82,1000.38
+TXN-00130,2025-10-04,2025-10,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,East,General Trade,Rahul Mehta,340,1.35,459.0,15,390.15,181.86,208.29
+TXN-00897,2025-10-04,2025-10,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Priya Sharma,370,3.41,1261.7,0,1261.7,613.85,647.85
+TXN-00333,2025-10-06,2025-10,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,General Trade,Meena Krishnan,104,3.66,380.64,10,342.58,159.24,183.34
+TXN-00110,2025-10-07,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Priya Sharma,321,5.4,1733.4,10,1560.06,661.09,898.97
+TXN-00690,2025-10-07,2025-10,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,Direct to Consumer,Divya Joshi,35,3.92,137.2,5,130.34,59.92,70.42
+TXN-00949,2025-10-07,2025-10,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,General Trade,Meena Krishnan,228,1.4,319.2,5,303.24,136.84,166.4
+TXN-00976,2025-10-07,2025-10,Q4-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Anita Desai,70,4.83,338.1,0,338.1,143.2,194.9
+TXN-00508,2025-10-09,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,E-Commerce,Divya Joshi,121,4.15,502.15,5,477.04,241.93,235.11
+TXN-00783,2025-10-09,2025-10,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Rahul Mehta,234,5.87,1373.58,0,1373.58,556.79,816.79
+TXN-00122,2025-10-10,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Direct to Consumer,Rahul Mehta,370,4.55,1683.5,5,1599.32,679.64,919.68
+TXN-00136,2025-10-12,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,General Trade,Rahul Mehta,431,1.98,853.38,10,768.04,342.03,426.01
+TXN-00646,2025-10-15,2025-10,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Direct to Consumer,Rahul Mehta,305,7.27,2217.35,5,2106.48,1064.58,1041.9
+TXN-00577,2025-10-17,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Anita Desai,263,2.52,662.76,0,662.76,349.66,313.1
+TXN-00605,2025-10-17,2025-10,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,General Trade,Anita Desai,423,9.24,3908.52,5,3713.09,1836.83,1876.26
+TXN-00614,2025-10-17,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,Central,Direct to Consumer,Divya Joshi,337,3.6,1213.2,0,1213.2,572.93,640.27
+TXN-00224,2025-10-18,2025-10,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Modern Trade,Divya Joshi,96,8.56,821.76,5,780.67,330.32,450.35
+TXN-00293,2025-10-19,2025-10,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Rohan Gupta,388,8.26,3204.88,0,3204.88,1634.22,1570.66
+TXN-00148,2025-10-20,2025-10,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,E-Commerce,Rohan Gupta,25,6.78,169.5,5,161.03,84.88,76.15
+TXN-00493,2025-10-20,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,Central,Modern Trade,Priya Sharma,488,2.1,1024.8,15,871.08,409.75,461.33
+TXN-00632,2025-10-22,2025-10,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,North,Modern Trade,Arjun Rao,88,2.32,204.16,15,173.54,72.21,101.33
+TXN-00633,2025-10-22,2025-10,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,E-Commerce,Divya Joshi,397,4.91,1949.27,5,1851.81,944.38,907.43
+TXN-00255,2025-10-23,2025-10,Q4-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,E-Commerce,Sneha Patel,40,12.98,519.2,0,519.2,258.48,260.72
+TXN-00537,2025-10-23,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Meena Krishnan,445,3.6,1602.0,0,1602.0,685.01,916.99
+TXN-00204,2025-10-24,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,E-Commerce,Priya Sharma,107,3.08,329.56,15,280.13,144.86,135.27
+TXN-00453,2025-10-24,2025-10,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Anita Desai,98,7.35,720.3,0,720.3,312.3,408.0
+TXN-00888,2025-10-25,2025-10,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,General Trade,Vikram Nair,169,5.44,919.36,10,827.42,339.1,488.32
+TXN-00523,2025-10-26,2025-10,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,Direct to Consumer,Divya Joshi,14,7.86,110.04,0,110.04,51.37,58.67
+TXN-00985,2025-10-26,2025-10,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,Direct to Consumer,Arjun Rao,217,4.3,933.1,0,933.1,385.04,548.06
+TXN-00213,2025-10-27,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Direct to Consumer,Arjun Rao,152,2.26,343.52,0,343.52,138.74,204.78
+TXN-00989,2025-10-28,2025-10,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Priya Sharma,491,2.44,1198.04,0,1198.04,582.09,615.95
+TXN-00029,2025-10-29,2025-10,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,Modern Trade,Priya Sharma,286,7.42,2122.12,0,2122.12,1143.73,978.39
+TXN-00177,2025-10-29,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Direct to Consumer,Karan Malhotra,106,4.31,456.86,5,434.02,206.25,227.77
+TXN-00452,2025-10-29,2025-10,Q4-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,South,General Trade,Sneha Patel,219,8.13,1780.47,15,1513.4,782.5,730.9
+TXN-00526,2025-10-29,2025-10,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Modern Trade,Sneha Patel,108,5.69,614.52,0,614.52,333.21,281.31
+TXN-00678,2025-10-30,2025-10,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,General Trade,Vikram Nair,80,1.96,156.8,10,141.12,73.38,67.74
+TXN-00263,2025-10-31,2025-10,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,East,Modern Trade,Sneha Patel,194,2.22,430.68,0,430.68,215.41,215.27
+TXN-00553,2025-10-31,2025-10,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,East,General Trade,Meena Krishnan,203,3.54,718.62,10,646.76,345.84,300.92
+TXN-00139,2025-11-01,2025-11,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,General Trade,Meena Krishnan,60,2.93,175.8,5,167.01,77.03,89.98
+TXN-00358,2025-11-01,2025-11,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,South,E-Commerce,Rahul Mehta,194,9.49,1841.06,0,1841.06,919.93,921.13
+TXN-00462,2025-11-01,2025-11,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,East,General Trade,Arjun Rao,55,7.17,394.35,0,394.35,201.76,192.59
+TXN-00579,2025-11-01,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,E-Commerce,Vikram Nair,10,9.07,90.7,0,90.7,49.84,40.86
+TXN-00251,2025-11-02,2025-11,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,North,E-Commerce,Rohan Gupta,141,11.55,1628.55,0,1628.55,700.78,927.77
+TXN-00457,2025-11-02,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Sneha Patel,374,8.64,3231.36,10,2908.22,1293.63,1614.59
+TXN-00388,2025-11-04,2025-11,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,E-Commerce,Priya Sharma,202,5.41,1092.82,10,983.54,438.78,544.76
+TXN-00461,2025-11-04,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,East,E-Commerce,Anita Desai,458,8.32,3810.56,0,3810.56,1580.01,2230.55
+TXN-00942,2025-11-04,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Karan Malhotra,12,6.19,74.28,0,74.28,37.02,37.26
+TXN-00367,2025-11-05,2025-11,Q4-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,Central,E-Commerce,Priya Sharma,458,10.48,4799.84,5,4559.85,2239.06,2320.79
+TXN-00280,2025-11-07,2025-11,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,E-Commerce,Anita Desai,276,2.08,574.08,0,574.08,253.33,320.75
+TXN-00761,2025-11-07,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Vikram Nair,235,5.41,1271.35,0,1271.35,548.75,722.6
+TXN-00520,2025-11-08,2025-11,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,Modern Trade,Karan Malhotra,164,1.86,305.04,5,289.79,139.83,149.96
+TXN-00880,2025-11-08,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,General Trade,Sneha Patel,264,4.53,1195.92,0,1195.92,575.67,620.25
+TXN-00492,2025-11-10,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,South,Direct to Consumer,Arjun Rao,356,6.37,2267.72,0,2267.72,1192.49,1075.23
+TXN-00669,2025-11-10,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,North,Direct to Consumer,Karan Malhotra,279,6.94,1936.26,0,1936.26,791.96,1144.3
+TXN-00056,2025-11-11,2025-11,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,South,General Trade,Meena Krishnan,491,1.77,869.07,10,782.16,418.78,363.38
+TXN-00416,2025-11-12,2025-11,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,E-Commerce,Vikram Nair,311,9.05,2814.55,5,2673.82,1192.59,1481.23
+TXN-00947,2025-11-12,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Arjun Rao,59,5.27,310.93,5,295.38,127.01,168.37
+TXN-00375,2025-11-13,2025-11,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,Modern Trade,Sneha Patel,389,1.58,614.62,0,614.62,256.86,357.76
+TXN-00216,2025-11-14,2025-11,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Arjun Rao,187,5.35,1000.45,5,950.43,457.47,492.96
+TXN-00892,2025-11-14,2025-11,Q4-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Direct to Consumer,Divya Joshi,183,10.12,1851.96,0,1851.96,841.72,1010.24
+TXN-00295,2025-11-15,2025-11,Q4-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,Central,Modern Trade,Rahul Mehta,34,4.78,162.52,5,154.39,64.94,89.45
+TXN-00286,2025-11-18,2025-11,Q4-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,North,General Trade,Karan Malhotra,296,4.33,1281.68,0,1281.68,679.83,601.85
+TXN-00539,2025-11-18,2025-11,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Modern Trade,Sneha Patel,44,2.83,124.52,0,124.52,63.36,61.16
+TXN-00540,2025-11-18,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,E-Commerce,Anita Desai,345,5.37,1852.65,0,1852.65,913.22,939.43
+TXN-00587,2025-11-20,2025-11,Q4-2025,NB-SHMP-002,NovaBite Shampoo Keratin 400ml,Personal Care,Shampoo,East,Modern Trade,Meena Krishnan,393,11.84,4653.12,0,4653.12,2248.31,2404.81
+TXN-00721,2025-11-23,2025-11,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,South,Modern Trade,Divya Joshi,77,1.91,147.07,0,147.07,68.96,78.11
+TXN-00885,2025-11-23,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,Direct to Consumer,Karan Malhotra,190,4.07,773.3,0,773.3,346.49,426.81
+TXN-00878,2025-11-25,2025-11,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Modern Trade,Rohan Gupta,23,5.03,115.69,5,109.91,53.93,55.98
+TXN-00210,2025-11-26,2025-11,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,E-Commerce,Divya Joshi,91,8.15,741.65,0,741.65,391.07,350.58
+TXN-00015,2025-11-29,2025-11,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Rahul Mehta,463,2.55,1180.65,0,1180.65,608.38,572.27
+TXN-00524,2025-11-29,2025-11,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Priya Sharma,463,5.01,2319.63,15,1971.69,1068.16,903.53
+TXN-00780,2025-11-29,2025-11,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Arjun Rao,165,1.67,275.55,10,248.0,136.29,111.71
+TXN-00825,2025-11-29,2025-11,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,North,E-Commerce,Meena Krishnan,287,3.01,863.87,5,820.68,370.95,449.73
+TXN-00763,2025-11-30,2025-11,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,General Trade,Meena Krishnan,371,3.36,1246.56,0,1246.56,525.76,720.8
+TXN-00909,2025-11-30,2025-11,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,Direct to Consumer,Rohan Gupta,136,6.0,816.0,15,693.6,374.92,318.68
+TXN-00456,2025-12-01,2025-12,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,Central,E-Commerce,Sneha Patel,65,2.02,131.3,0,131.3,71.99,59.31
+TXN-00674,2025-12-01,2025-12,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,South,Modern Trade,Arjun Rao,190,4.09,777.1,0,777.1,338.37,438.73
+TXN-00731,2025-12-01,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,Direct to Consumer,Sneha Patel,339,4.95,1678.05,5,1594.15,750.18,843.97
+TXN-00790,2025-12-01,2025-12,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,E-Commerce,Rahul Mehta,304,5.73,1741.92,0,1741.92,915.32,826.6
+TXN-00264,2025-12-03,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,East,General Trade,Meena Krishnan,267,4.14,1105.38,10,994.84,512.82,482.02
+TXN-00460,2025-12-03,2025-12,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,South,E-Commerce,Vikram Nair,283,1.81,512.23,5,486.62,260.82,225.8
+TXN-00562,2025-12-03,2025-12,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,E-Commerce,Anita Desai,185,7.39,1367.15,5,1298.79,634.58,664.21
+TXN-00928,2025-12-04,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,E-Commerce,Meena Krishnan,118,5.09,600.62,10,540.56,250.55,290.01
+TXN-00347,2025-12-06,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,General Trade,Karan Malhotra,189,4.61,871.29,5,827.73,409.66,418.07
+TXN-00706,2025-12-06,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,Modern Trade,Rohan Gupta,319,5.62,1792.78,10,1613.5,714.91,898.59
+TXN-00245,2025-12-08,2025-12,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,General Trade,Meena Krishnan,114,1.93,220.02,15,187.02,91.96,95.06
+TXN-00858,2025-12-08,2025-12,Q4-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,E-Commerce,Sneha Patel,195,6.51,1269.45,5,1205.98,643.34,562.64
+TXN-00206,2025-12-09,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,East,General Trade,Rohan Gupta,264,3.26,860.64,15,731.54,349.6,381.94
+TXN-00772,2025-12-09,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,West,E-Commerce,Meena Krishnan,472,7.93,3742.96,15,3181.52,1426.95,1754.57
+TXN-00506,2025-12-10,2025-12,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,West,Direct to Consumer,Karan Malhotra,400,2.58,1032.0,5,980.4,533.87,446.53
+TXN-00737,2025-12-11,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,West,E-Commerce,Divya Joshi,130,5.08,660.4,10,594.36,244.69,349.67
+TXN-00794,2025-12-11,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,Central,E-Commerce,Meena Krishnan,423,6.02,2546.46,5,2419.14,1218.89,1200.25
+TXN-00916,2025-12-12,2025-12,Q4-2025,NB-SNCK-001,NovaBite Oats & Honey Bar 40g,Snacks,Energy Bar,West,E-Commerce,Rohan Gupta,24,2.77,66.48,10,59.83,29.69,30.14
+TXN-00361,2025-12-13,2025-12,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,Modern Trade,Priya Sharma,185,8.97,1659.45,15,1410.53,653.56,756.97
+TXN-00771,2025-12-13,2025-12,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,Central,General Trade,Rahul Mehta,104,4.98,517.92,5,492.02,245.55,246.47
+TXN-00567,2025-12-14,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,E-Commerce,Karan Malhotra,304,6.05,1839.2,0,1839.2,805.9,1033.3
+TXN-00624,2025-12-14,2025-12,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,West,E-Commerce,Rohan Gupta,415,11.72,4863.8,0,4863.8,2560.95,2302.85
+TXN-00613,2025-12-15,2025-12,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Anita Desai,286,7.5,2145.0,5,2037.75,954.65,1083.1
+TXN-00867,2025-12-15,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,Direct to Consumer,Arjun Rao,311,5.02,1561.22,10,1405.1,763.9,641.2
+TXN-00076,2025-12-17,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,North,General Trade,Rohan Gupta,141,4.27,602.07,0,602.07,295.55,306.52
+TXN-00438,2025-12-18,2025-12,Q4-2025,NB-COND-001,NovaBite Conditioner Argan 300ml,Personal Care,Conditioner,Central,Direct to Consumer,Priya Sharma,329,7.82,2572.78,15,2186.86,1012.38,1174.48
+TXN-00266,2025-12-19,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,Central,E-Commerce,Meena Krishnan,291,4.92,1431.72,15,1216.96,584.9,632.06
+TXN-00325,2025-12-19,2025-12,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,West,Modern Trade,Arjun Rao,468,5.41,2531.88,5,2405.29,1192.37,1212.92
+TXN-00528,2025-12-20,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,General Trade,Divya Joshi,459,3.63,1666.17,15,1416.24,658.96,757.28
+TXN-00349,2025-12-21,2025-12,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,General Trade,Arjun Rao,159,1.19,189.21,0,189.21,102.71,86.5
+TXN-00414,2025-12-22,2025-12,Q4-2025,NB-BVGR-001,NovaBite Green Tea 500ml,Beverages,Tea,East,Modern Trade,Arjun Rao,492,2.58,1269.36,5,1205.89,500.63,705.26
+TXN-00448,2025-12-22,2025-12,Q4-2025,NB-WASH-001,NovaBite Liquid Hand Wash 250ml,Personal Care,Hand Wash,West,Modern Trade,Arjun Rao,111,6.07,673.77,15,572.7,268.96,303.74
+TXN-00490,2025-12-22,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,East,E-Commerce,Priya Sharma,454,6.95,3155.3,15,2682.01,1371.96,1310.05
+TXN-00117,2025-12-23,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,North,E-Commerce,Rohan Gupta,477,4.96,2365.92,5,2247.62,1232.28,1015.34
+TXN-00717,2025-12-23,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,South,Modern Trade,Sneha Patel,449,3.75,1683.75,0,1683.75,742.07,941.68
+TXN-00695,2025-12-24,2025-12,Q4-2025,NB-CLNR-002,NovaBite Dishwash Liquid 500ml,Home Care,Dishwash,North,Modern Trade,Rahul Mehta,240,4.87,1168.8,0,1168.8,559.36,609.44
+TXN-00283,2025-12-25,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,South,General Trade,Sneha Patel,83,3.7,307.1,0,307.1,148.75,158.35
+TXN-00778,2025-12-25,2025-12,Q4-2025,NB-SNCK-002,NovaBite Mixed Nuts Pack 100g,Snacks,Nuts,Central,Modern Trade,Divya Joshi,491,3.72,1826.52,5,1735.19,807.57,927.62
+TXN-00182,2025-12-26,2025-12,Q4-2025,NB-CLNR-001,NovaBite Multi-Surface Spray 750ml,Home Care,Cleaner,West,General Trade,Karan Malhotra,490,6.52,3194.8,5,3035.06,1385.51,1649.55
+TXN-00819,2025-12-27,2025-12,Q4-2025,NB-SHMP-001,NovaBite Shampoo Coconut 400ml,Personal Care,Shampoo,Central,Modern Trade,Divya Joshi,406,7.83,3178.98,0,3178.98,1385.38,1793.6
+TXN-00859,2025-12-27,2025-12,Q4-2025,NB-BVGR-002,NovaBite Sparkling Water Lemon 330ml,Beverages,Water,Central,E-Commerce,Anita Desai,165,1.61,265.65,15,225.8,94.34,131.46
+TXN-00342,2025-12-28,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Direct to Consumer,Meena Krishnan,440,5.26,2314.4,0,2314.4,954.46,1359.94
+TXN-00918,2025-12-31,2025-12,Q4-2025,NB-WASH-002,NovaBite Foaming Hand Wash 300ml,Personal Care,Hand Wash,South,General Trade,Divya Joshi,403,4.59,1849.77,15,1572.3,659.6,912.7
+TXN-00924,2025-12-31,2025-12,Q4-2025,NB-SNCK-003,NovaBite Granola Pouch 250g,Snacks,Granola,West,Modern Trade,Vikram Nair,114,5.62,640.68,15,544.58,284.28,260.3
