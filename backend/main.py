@@ -31,7 +31,7 @@ app = FastAPI(title="NovaBite Insights API", lifespan=lifespan)
 _BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 load_dotenv(dotenv_path=os.path.join(_BASE_DIR, "..", ".env"))
 
-CORS_ORIGIN = os.getenv("CORS_ORIGIN")
+CORS_ORIGIN = os.getenv("CORS_ORIGIN", "http://localhost:5173")
 
 
 app.add_middleware(
