@@ -6,6 +6,19 @@ Built as part of the **RevMind AI Full-Stack Take-Home Assignment (2026)**.
 
 ---
 
+## 🚀 Live Demo
+
+|                        | URL                                                   |
+| ---------------------- | ----------------------------------------------------- |
+| **Frontend**           | https://novabite-insights.vercel.app                  |
+| **Backend API**        | https://novabite-insights.onrender.com                |
+| **API Docs (Swagger)** | https://novabite-insights.onrender.com/docs           |
+| **GitHub**             | https://github.com/DipanjanPanja007/novabite-insights |
+
+> ⚠️ **Note:** Backend is hosted on Render's free tier. The first request may take **30–50 seconds** to wake up after inactivity. Subsequent requests are fast.
+
+---
+
 ## Tech Stack
 
 | Layer       | Technology                                         |
@@ -17,15 +30,6 @@ Built as part of the **RevMind AI Full-Stack Take-Home Assignment (2026)**.
 | Styling     | Tailwind CSS v3                                    |
 | Charts      | Recharts                                           |
 | HTTP Client | Axios                                              |
-
----
-
-## Live Demo
-
-|             | URL         |
-| ----------- | ----------- |
-| Frontend    | coming soon |
-| Backend API | coming soon |
 
 ---
 
@@ -86,13 +90,20 @@ cd novabite-insights
 cp .env.example .env
 ```
 
-Open `.env` and add your Groq API key:
+Open `.env` and add your keys:
 
 ```
 GROQ_API_KEY=your_groq_api_key_here
+CORS_ORIGIN=http://localhost:5173
 ```
 
-Get a free key at [console.groq.com](https://console.groq.com) → API Keys → Create Key.
+Also create `frontend/.env`:
+
+```
+VITE_API_URL=http://localhost:8000
+```
+
+Get a free Groq key at [console.groq.com](https://console.groq.com) → API Keys → Create Key.
 
 ---
 
@@ -181,7 +192,7 @@ I used **Groq's Llama 3.3 70B Versatile** via the Groq inference API.
 
 **Why Groq over Anthropic/OpenAI:**
 
-The assignment recommended Anthropic Claude or OpenAI. However, Anthropic's API requires a credit card for account creation — which is not available to me. Groq offers a fully free tier with no credit card requirement, and critically, Groq's API is **100% OpenAI-compatible** — meaning the code structure, SDK, and request format are identical. Swapping from OpenAI to Groq required changing only two lines: the `base_url` and the model name.
+The assignment recommended Anthropic Claude or OpenAI. However, Anthropic's API requires a credit card for account creation which is not available to me. Groq offers a fully free tier with no credit card requirement, and critically, Groq's API is **100% OpenAI-compatible** — meaning the code structure, SDK, and request format are identical. Swapping from OpenAI to Groq required changing only two lines: the `base_url` and the model name.
 
 Llama 3.3 70B produces high-quality, factual answers on structured data tasks — well-suited for the business intelligence use case in this assignment.
 
@@ -231,8 +242,6 @@ Answer the following question:
 
 The prompt goes as the `system` message. The user's question goes as the `user` message. Llama 3.3 reads the embedded data and answers accurately — it never hallucinates because all answers come from the data we provide.
 
-**Why this approach works:** The model doesn't need to "know" NovaBite's data from training. We inject the exact numbers it needs on every request. This is standard practice in production LLM applications.
-
 ---
 
 ## What I Would Improve With More Time
@@ -247,19 +256,20 @@ The prompt goes as the `system` message. The user's question goes as the `user` 
 
 5. **Second chart** — A bar chart showing revenue by category or region breakdown on the dashboard.
 
-6. **Environment-based CORS** — Currently CORS is hardcoded to `localhost:5173`. In production this should read from an environment variable.
+6. **Environment-based CORS** — In production this should be locked to specific origins rather than allowing all.
 
 ---
 
 ## Tradeoffs and Shortcuts
 
-| Decision                         | Reason                                                                                                    |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Groq instead of Anthropic/OpenAI | No credit card available for Anthropic/OpenAI free tier signup                                            |
-| SQLite instead of PostgreSQL     | Assignment explicitly allows it; simpler setup, no external server                                        |
-| Pre-fetching fixed SQL queries   | Ensures 100% accuracy on the 5 required test questions; tradeoff is inflexibility for edge-case questions |
-| No authentication                | Out of scope for this assignment; a real product would require JWT or session auth                        |
-| No query caching                 | Each `/api/chat` call re-runs all 10 SQL queries; acceptable for 1000 rows, would need caching at scale   |
+| Decision                            | Reason                                                                                                    |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Groq instead of Anthropic/OpenAI    | No credit card available for Anthropic/OpenAI free tier signup                                            |
+| SQLite instead of PostgreSQL        | Assignment explicitly allows it; simpler setup, no external server                                        |
+| Pre-fetching fixed SQL queries      | Ensures 100% accuracy on the 5 required test questions; tradeoff is inflexibility for edge-case questions |
+| `allow_origins=["*"]` in production | Vercel generates multiple preview URLs making specific origin matching impractical for a demo deployment  |
+| No authentication                   | Out of scope for this assignment; a real product would require JWT or session auth                        |
+| No query caching                    | Each `/api/chat` call re-runs all 10 SQL queries; acceptable for 1000 rows, would need caching at scale   |
 
 ---
 
