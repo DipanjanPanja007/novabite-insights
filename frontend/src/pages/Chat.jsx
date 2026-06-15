@@ -108,7 +108,7 @@ const Chat = () => {
 
                 {/* Chat History */}
                 <div className="flex flex-col gap-6">
-                    {messages.map((msg, idx) => (
+                    {[...messages].reverse().map((msg, idx) => (
                         <div key={idx} className="flex flex-col gap-3">
 
                             {/* Question — right aligned */}
